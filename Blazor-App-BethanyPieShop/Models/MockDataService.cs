@@ -30,7 +30,6 @@ namespace BlazorBethanyPieShop.App.Models
 			var e1 = new Employee
 			{
 				MaritalStatus = MaritalStatus.Single,
-				BirthDate = new DateTime(1989, 3, 11),
 				City = "Brussels",
 				Email = "bethany@bethanyspieshop.com",
 				EmployeeId = 1,
@@ -44,8 +43,6 @@ namespace BlazorBethanyPieShop.App.Models
 				JobCategory = _jobCategories[2],
 				JobCategoryId = _jobCategories[2].JobCategoryId,
 				Comment = "Lorem Ipsum",
-				ExitDate = null,
-				JoinedDate = new DateTime(2015, 3, 1),
 				Country = _countries[0],
 				CountryId = _countries[0].CountryId
 			};
@@ -53,7 +50,6 @@ namespace BlazorBethanyPieShop.App.Models
 			var e2 = new Employee
 			{
 				MaritalStatus = MaritalStatus.Married,
-				BirthDate = new DateTime(1979, 1, 16),
 				City = "Antwerp",
 				Email = "gill@bethanyspieshop.com",
 				EmployeeId = 2,
@@ -67,8 +63,6 @@ namespace BlazorBethanyPieShop.App.Models
 				JobCategory = _jobCategories[1],
 				JobCategoryId = _jobCategories[1].JobCategoryId,
 				Comment = "Lorem Ipsum",
-				ExitDate = null,
-				JoinedDate = new DateTime(2017, 12, 24),
 				Country = _countries[1],
 				CountryId = _countries[1].CountryId
 			};
@@ -76,7 +70,6 @@ namespace BlazorBethanyPieShop.App.Models
 			var e3 = new Employee
 			{
 				MaritalStatus = MaritalStatus.Married,
-				BirthDate = new DateTime(1979, 1, 16),
 				City = "Antwerp",
 				Email = "jane@bethanyspieshop.com",
 				EmployeeId = 2,
@@ -90,8 +83,6 @@ namespace BlazorBethanyPieShop.App.Models
 				JobCategory = _jobCategories[1],
 				JobCategoryId = _jobCategories[1].JobCategoryId,
 				Comment = "Lorem Ipsum",
-				ExitDate = null,
-				JoinedDate = new DateTime(2017, 12, 24),
 				Country = _countries[1],
 				CountryId = _countries[1].CountryId
 			};

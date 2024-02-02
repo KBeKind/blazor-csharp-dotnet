@@ -1,11 +1,15 @@
 ﻿using BethanysPieShopHRM.Shared.Domain;
-using BlazorBethanyPieShop.App.Models;
+using BlazorBethanyPieShop.App.Services;
 using Microsoft.AspNetCore.Components;
 
 namespace BlazorBethanyPieShop.App.Pages
 {
 	public partial class EmployeeDetail
 	{
+
+		[Inject]
+		public IEmployeeDataService? EmployeeDataService { get; set; }
+
 
 		[Parameter]
 		public string EmployeeId { get; set; }
@@ -14,12 +18,9 @@ namespace BlazorBethanyPieShop.App.Pages
 		public Employee? Employee { get; set; } = new Employee();
 
 
-		protected override Task OnInitializedAsync()
+		protected async override Task OnInitializedAsync()
 		{
-
-			Employee = MockDataService.Employees.FirstOrDefault(e => e.EmployeeId == int.Parse(EmployeeId));
-
-			return base.OnInitializedAsync();
+			Employee = await EmployeeDataService.GetEmployeeDetails(int.Parse(EmployeeId));
 		}
 
 
