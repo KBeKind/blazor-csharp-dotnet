@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "oIXwrCYx6b/39wbS0plhtNsioiufDaLjAQ5Mm9Wmo2yAQZpkrHtztylouVb74WU6WzFfvi9jeNIso6SWRxpcQg==",
+  "dgSpecHash": "T4EkWClVmgjWKoKLUJhArBKGjJVurUKTLYfc9aqjNNt5kWFEsSLTUsW5mIky2lXETNpqbOpgHurEaA0TracN4A==",
   "success": true,
   "projectFilePath": "C:\\Users\\kyler\\Desktop\\DOTNET-PRACTICE\\Blazor-App-BethanyPieShop\\BethanysPieShopHRM.Api\\BethanysPieShopHRM.Api.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\kyler\\.nuget\\packages\\blazored.localstorage\\4.4.0\\blazored.localstorage.4.4.0.nupkg.sha512",
     "C:\\Users\\kyler\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\kyler\\.nuget\\packages\\microsoft.aspnetcore.authorization\\6.0.8\\microsoft.aspnetcore.authorization.6.0.8.nupkg.sha512",
     "C:\\Users\\kyler\\.nuget\\packages\\microsoft.aspnetcore.components\\6.0.8\\microsoft.aspnetcore.components.6.0.8.nupkg.sha512",

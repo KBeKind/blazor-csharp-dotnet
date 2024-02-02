@@ -831,3 +831,7 @@ C:\Users\kyler\Desktop\DOTNET-PRACTICE\Blazor-App-BethanyPieShop\Blazor-App-Beth
 C:\Users\kyler\Desktop\DOTNET-PRACTICE\Blazor-App-BethanyPieShop\Blazor-App-BethanyPieShop\bin\Debug\net6.0\wwwroot\_framework\Microsoft.Extensions.Http.dll.gz
 C:\Users\kyler\Desktop\DOTNET-PRACTICE\Blazor-App-BethanyPieShop\Blazor-App-BethanyPieShop\bin\Debug\net6.0\Microsoft.Extensions.Http.dll
 C:\Users\kyler\Desktop\DOTNET-PRACTICE\Blazor-App-BethanyPieShop\Blazor-App-BethanyPieShop\obj\Debug\net6.0\compressed\od93f76awa.gz
+C:\Users\kyler\Desktop\DOTNET-PRACTICE\Blazor-App-BethanyPieShop\Blazor-App-BethanyPieShop\bin\Debug\net6.0\wwwroot\_framework\Blazored.LocalStorage.dll
+C:\Users\kyler\Desktop\DOTNET-PRACTICE\Blazor-App-BethanyPieShop\Blazor-App-BethanyPieShop\bin\Debug\net6.0\wwwroot\_framework\Blazored.LocalStorage.dll.gz
+C:\Users\kyler\Desktop\DOTNET-PRACTICE\Blazor-App-BethanyPieShop\Blazor-App-BethanyPieShop\bin\Debug\net6.0\Blazored.LocalStorage.dll
+C:\Users\kyler\Desktop\DOTNET-PRACTICE\Blazor-App-BethanyPieShop\Blazor-App-BethanyPieShop\obj\Debug\net6.0\compressed\n01sy11bb5.gz
