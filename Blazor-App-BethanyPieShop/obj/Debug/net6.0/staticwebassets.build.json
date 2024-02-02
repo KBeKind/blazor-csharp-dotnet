@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "PUpOfy2NKvgrRSOWNy3yLHGhjiruiZwD4T9ug0YC+Jk=",
+  "Hash": "lfN/B4sjJjlCo8ZWFBj0wbDEJ3wcNsopvv4KWVCHvsg=",
   "Source": "BlazorBethanyPieShop.App",
   "BasePath": "/",
   "Mode": "Root",
@@ -129,6 +129,25 @@
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "obj\\Debug\\net6.0\\BlazorBethanyPieShop.App.pdb"
+    },
+    {
+      "Identity": "C:\\Users\\kyler\\Desktop\\DOTNET-PRACTICE\\Blazor-App-BethanyPieShop\\Blazor-App-BethanyPieShop\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Blazored.LocalStorage.dll",
+      "SourceId": "BlazorBethanyPieShop.App",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\kyler\\Desktop\\DOTNET-PRACTICE\\Blazor-App-BethanyPieShop\\Blazor-App-BethanyPieShop\\bin\\Debug\\net6.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/Blazored.LocalStorage.dll",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "WasmResource",
+      "AssetTraitValue": "runtime",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "C:\\Users\\kyler\\.nuget\\packages\\blazored.localstorage\\4.4.0\\lib\\net6.0\\Blazored.LocalStorage.dll"
     },
     {
       "Identity": "C:\\Users\\kyler\\Desktop\\DOTNET-PRACTICE\\Blazor-App-BethanyPieShop\\Blazor-App-BethanyPieShop\\bin\\Debug\\net6.0\\wwwroot\\_framework\\dotnet.6.0.26.zldu2hn6lg.js",
@@ -6133,6 +6152,25 @@
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\Users\\kyler\\Desktop\\DOTNET-PRACTICE\\Blazor-App-BethanyPieShop\\Blazor-App-BethanyPieShop\\bin\\Debug\\net6.0\\wwwroot\\_framework\\System.Runtime.Serialization.Json.dll"
+    },
+    {
+      "Identity": "C:\\Users\\kyler\\Desktop\\DOTNET-PRACTICE\\Blazor-App-BethanyPieShop\\Blazor-App-BethanyPieShop\\obj\\Debug\\net6.0\\compressed\\n01sy11bb5.gz",
+      "SourceId": "BlazorBethanyPieShop.App",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\kyler\\Desktop\\DOTNET-PRACTICE\\Blazor-App-BethanyPieShop\\Blazor-App-BethanyPieShop\\bin\\Debug\\net6.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/Blazored.LocalStorage.dll.gz",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\kyler\\Desktop\\DOTNET-PRACTICE\\Blazor-App-BethanyPieShop\\Blazor-App-BethanyPieShop\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Blazored.LocalStorage.dll",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "C:\\Users\\kyler\\Desktop\\DOTNET-PRACTICE\\Blazor-App-BethanyPieShop\\Blazor-App-BethanyPieShop\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Blazored.LocalStorage.dll"
     },
     {
       "Identity": "C:\\Users\\kyler\\Desktop\\DOTNET-PRACTICE\\Blazor-App-BethanyPieShop\\Blazor-App-BethanyPieShop\\obj\\Debug\\net6.0\\compressed\\n46l98tn65.gz",
