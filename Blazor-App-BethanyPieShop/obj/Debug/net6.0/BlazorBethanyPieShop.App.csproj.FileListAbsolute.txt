@@ -826,3 +826,4 @@ C:\Users\kyler\Desktop\DOTNET-PRACTICE\Blazor-App-BethanyPieShop\Blazor-App-Beth
 C:\Users\kyler\Desktop\DOTNET-PRACTICE\Blazor-App-BethanyPieShop\Blazor-App-BethanyPieShop\obj\Debug\net6.0\BlazorBethanyPieShop.App.pdb
 C:\Users\kyler\Desktop\DOTNET-PRACTICE\Blazor-App-BethanyPieShop\Blazor-App-BethanyPieShop\obj\Debug\net6.0\ref\BlazorBethanyPieShop.App.dll
 C:\Users\kyler\Desktop\DOTNET-PRACTICE\Blazor-App-BethanyPieShop\Blazor-App-BethanyPieShop\bin\Debug\net6.0\libman.json
+C:\Users\kyler\Desktop\DOTNET-PRACTICE\Blazor-App-BethanyPieShop\Blazor-App-BethanyPieShop\obj\Debug\net6.0\BlazorBethanyPieShop.App.sourcelink.json
