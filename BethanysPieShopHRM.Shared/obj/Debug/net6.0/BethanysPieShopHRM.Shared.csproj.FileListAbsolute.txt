@@ -9,3 +9,4 @@ C:\Users\kyler\Desktop\DOTNET-PRACTICE\Blazor-App-BethanyPieShop\BethanysPieShop
 C:\Users\kyler\Desktop\DOTNET-PRACTICE\Blazor-App-BethanyPieShop\BethanysPieShopHRM.Shared\obj\Debug\net6.0\refint\BethanysPieShopHRM.Shared.dll
 C:\Users\kyler\Desktop\DOTNET-PRACTICE\Blazor-App-BethanyPieShop\BethanysPieShopHRM.Shared\obj\Debug\net6.0\BethanysPieShopHRM.Shared.pdb
 C:\Users\kyler\Desktop\DOTNET-PRACTICE\Blazor-App-BethanyPieShop\BethanysPieShopHRM.Shared\obj\Debug\net6.0\ref\BethanysPieShopHRM.Shared.dll
+C:\Users\kyler\Desktop\DOTNET-PRACTICE\Blazor-App-BethanyPieShop\BethanysPieShopHRM.Shared\obj\Debug\net6.0\BethanysPieShopHRM.Shared.sourcelink.json

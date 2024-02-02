@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("BlazorBethanyPieShop.App")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+abf919241b01a7364a6fc8720cbfc818262a29b9")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e45d26f34c62eb604e2acd98e607181c47f2d910")]
 [assembly: System.Reflection.AssemblyProductAttribute("BlazorBethanyPieShop.App")]
 [assembly: System.Reflection.AssemblyTitleAttribute("BlazorBethanyPieShop.App")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

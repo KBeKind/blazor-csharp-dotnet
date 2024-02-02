@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "W/wPpy597d5psc5g/zsGZxZhJFXE12knOaIjsRBh5BY=",
+  "Hash": "PUpOfy2NKvgrRSOWNy3yLHGhjiruiZwD4T9ug0YC+Jk=",
   "Source": "BlazorBethanyPieShop.App",
   "BasePath": "/",
   "Mode": "Root",
@@ -90,7 +90,7 @@
       "AssetTraitValue": "boot",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\kyler\\.nuget\\packages\\microsoft.aspnetcore.components.webassembly\\6.0.26\\build\\net6.0\\blazor.webassembly.js"
+      "OriginalItemSpec": "C:\\Users\\kyler\\.nuget\\packages\\microsoft.aspnetcore.components.webassembly\\6.0.8\\build\\net6.0\\blazor.webassembly.js"
     },
     {
       "Identity": "C:\\Users\\kyler\\Desktop\\DOTNET-PRACTICE\\Blazor-App-BethanyPieShop\\Blazor-App-BethanyPieShop\\bin\\Debug\\net6.0\\wwwroot\\_framework\\BlazorBethanyPieShop.App.dll",
@@ -261,7 +261,7 @@
       "AssetTraitValue": "runtime",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Users\\kyler\\.nuget\\packages\\microsoft.aspnetcore.authorization\\6.0.26\\lib\\net6.0\\Microsoft.AspNetCore.Authorization.dll"
+      "OriginalItemSpec": "C:\\Users\\kyler\\.nuget\\packages\\microsoft.aspnetcore.authorization\\6.0.8\\lib\\net6.0\\Microsoft.AspNetCore.Authorization.dll"
     },
     {
       "Identity": "C:\\Users\\kyler\\Desktop\\DOTNET-PRACTICE\\Blazor-App-BethanyPieShop\\Blazor-App-BethanyPieShop\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.AspNetCore.Components.dll",
@@ -280,7 +280,7 @@
       "AssetTraitValue": "runtime",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Users\\kyler\\.nuget\\packages\\microsoft.aspnetcore.components\\6.0.26\\lib\\net6.0\\Microsoft.AspNetCore.Components.dll"
+      "OriginalItemSpec": "C:\\Users\\kyler\\.nuget\\packages\\microsoft.aspnetcore.components\\6.0.8\\lib\\net6.0\\Microsoft.AspNetCore.Components.dll"
     },
     {
       "Identity": "C:\\Users\\kyler\\Desktop\\DOTNET-PRACTICE\\Blazor-App-BethanyPieShop\\Blazor-App-BethanyPieShop\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.AspNetCore.Components.Forms.dll",
@@ -299,7 +299,7 @@
       "AssetTraitValue": "runtime",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Users\\kyler\\.nuget\\packages\\microsoft.aspnetcore.components.forms\\6.0.26\\lib\\net6.0\\Microsoft.AspNetCore.Components.Forms.dll"
+      "OriginalItemSpec": "C:\\Users\\kyler\\.nuget\\packages\\microsoft.aspnetcore.components.forms\\6.0.8\\lib\\net6.0\\Microsoft.AspNetCore.Components.Forms.dll"
     },
     {
       "Identity": "C:\\Users\\kyler\\Desktop\\DOTNET-PRACTICE\\Blazor-App-BethanyPieShop\\Blazor-App-BethanyPieShop\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.AspNetCore.Components.Web.dll",
@@ -318,7 +318,7 @@
       "AssetTraitValue": "runtime",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Users\\kyler\\.nuget\\packages\\microsoft.aspnetcore.components.web\\6.0.26\\lib\\net6.0\\Microsoft.AspNetCore.Components.Web.dll"
+      "OriginalItemSpec": "C:\\Users\\kyler\\.nuget\\packages\\microsoft.aspnetcore.components.web\\6.0.8\\lib\\net6.0\\Microsoft.AspNetCore.Components.Web.dll"
     },
     {
       "Identity": "C:\\Users\\kyler\\Desktop\\DOTNET-PRACTICE\\Blazor-App-BethanyPieShop\\Blazor-App-BethanyPieShop\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.AspNetCore.Components.WebAssembly.dll",
@@ -337,7 +337,7 @@
       "AssetTraitValue": "runtime",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Users\\kyler\\.nuget\\packages\\microsoft.aspnetcore.components.webassembly\\6.0.26\\lib\\net6.0\\Microsoft.AspNetCore.Components.WebAssembly.dll"
+      "OriginalItemSpec": "C:\\Users\\kyler\\.nuget\\packages\\microsoft.aspnetcore.components.webassembly\\6.0.8\\lib\\net6.0\\Microsoft.AspNetCore.Components.WebAssembly.dll"
     },
     {
       "Identity": "C:\\Users\\kyler\\Desktop\\DOTNET-PRACTICE\\Blazor-App-BethanyPieShop\\Blazor-App-BethanyPieShop\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.AspNetCore.Metadata.dll",
@@ -356,7 +356,7 @@
       "AssetTraitValue": "runtime",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Users\\kyler\\.nuget\\packages\\microsoft.aspnetcore.metadata\\6.0.26\\lib\\net6.0\\Microsoft.AspNetCore.Metadata.dll"
+      "OriginalItemSpec": "C:\\Users\\kyler\\.nuget\\packages\\microsoft.aspnetcore.metadata\\6.0.8\\lib\\net6.0\\Microsoft.AspNetCore.Metadata.dll"
     },
     {
       "Identity": "C:\\Users\\kyler\\Desktop\\DOTNET-PRACTICE\\Blazor-App-BethanyPieShop\\Blazor-App-BethanyPieShop\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.CSharp.dll",
@@ -508,7 +508,7 @@
       "AssetTraitValue": "runtime",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Users\\kyler\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\6.0.1\\lib\\net6.0\\Microsoft.Extensions.DependencyInjection.dll"
+      "OriginalItemSpec": "C:\\Users\\kyler\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\6.0.0\\lib\\net6.0\\Microsoft.Extensions.DependencyInjection.dll"
     },
     {
       "Identity": "C:\\Users\\kyler\\Desktop\\DOTNET-PRACTICE\\Blazor-App-BethanyPieShop\\Blazor-App-BethanyPieShop\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.Extensions.FileProviders.Abstractions.dll",
@@ -568,6 +568,25 @@
       "OriginalItemSpec": "C:\\Users\\kyler\\.nuget\\packages\\microsoft.extensions.filesystemglobbing\\6.0.0\\lib\\net6.0\\Microsoft.Extensions.FileSystemGlobbing.dll"
     },
     {
+      "Identity": "C:\\Users\\kyler\\Desktop\\DOTNET-PRACTICE\\Blazor-App-BethanyPieShop\\Blazor-App-BethanyPieShop\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.Extensions.Http.dll",
+      "SourceId": "BlazorBethanyPieShop.App",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\kyler\\Desktop\\DOTNET-PRACTICE\\Blazor-App-BethanyPieShop\\Blazor-App-BethanyPieShop\\bin\\Debug\\net6.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/Microsoft.Extensions.Http.dll",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "WasmResource",
+      "AssetTraitValue": "runtime",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "C:\\Users\\kyler\\.nuget\\packages\\microsoft.extensions.http\\6.0.0\\lib\\netstandard2.0\\Microsoft.Extensions.Http.dll"
+    },
+    {
       "Identity": "C:\\Users\\kyler\\Desktop\\DOTNET-PRACTICE\\Blazor-App-BethanyPieShop\\Blazor-App-BethanyPieShop\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.Extensions.Logging.Abstractions.dll",
       "SourceId": "BlazorBethanyPieShop.App",
       "SourceType": "Computed",
@@ -584,7 +603,7 @@
       "AssetTraitValue": "runtime",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Users\\kyler\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\6.0.4\\lib\\net6.0\\Microsoft.Extensions.Logging.Abstractions.dll"
+      "OriginalItemSpec": "C:\\Users\\kyler\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\6.0.1\\lib\\net6.0\\Microsoft.Extensions.Logging.Abstractions.dll"
     },
     {
       "Identity": "C:\\Users\\kyler\\Desktop\\DOTNET-PRACTICE\\Blazor-App-BethanyPieShop\\Blazor-App-BethanyPieShop\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.Extensions.Logging.dll",
@@ -660,7 +679,7 @@
       "AssetTraitValue": "runtime",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Users\\kyler\\.nuget\\packages\\microsoft.jsinterop\\6.0.26\\lib\\net6.0\\Microsoft.JSInterop.dll"
+      "OriginalItemSpec": "C:\\Users\\kyler\\.nuget\\packages\\microsoft.jsinterop\\6.0.8\\lib\\net6.0\\Microsoft.JSInterop.dll"
     },
     {
       "Identity": "C:\\Users\\kyler\\Desktop\\DOTNET-PRACTICE\\Blazor-App-BethanyPieShop\\Blazor-App-BethanyPieShop\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.JSInterop.WebAssembly.dll",
@@ -679,7 +698,7 @@
       "AssetTraitValue": "runtime",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Users\\kyler\\.nuget\\packages\\microsoft.jsinterop.webassembly\\6.0.26\\lib\\net6.0\\Microsoft.JSInterop.WebAssembly.dll"
+      "OriginalItemSpec": "C:\\Users\\kyler\\.nuget\\packages\\microsoft.jsinterop.webassembly\\6.0.8\\lib\\net6.0\\Microsoft.JSInterop.WebAssembly.dll"
     },
     {
       "Identity": "C:\\Users\\kyler\\Desktop\\DOTNET-PRACTICE\\Blazor-App-BethanyPieShop\\Blazor-App-BethanyPieShop\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.VisualBasic.Core.dll",
@@ -4292,42 +4311,23 @@
       "OriginalItemSpec": "C:\\Users\\kyler\\Desktop\\DOTNET-PRACTICE\\Blazor-App-BethanyPieShop\\Blazor-App-BethanyPieShop\\bin\\Debug\\net6.0\\wwwroot\\_framework\\System.Net.Primitives.dll"
     },
     {
-      "Identity": "C:\\Users\\kyler\\Desktop\\DOTNET-PRACTICE\\Blazor-App-BethanyPieShop\\Blazor-App-BethanyPieShop\\obj\\Debug\\net6.0\\compressed\\4fit8h9bto.gz",
+      "Identity": "C:\\Users\\kyler\\Desktop\\DOTNET-PRACTICE\\Blazor-App-BethanyPieShop\\Blazor-App-BethanyPieShop\\obj\\Debug\\net6.0\\compressed\\4pv0asmwda.gz",
       "SourceId": "BlazorBethanyPieShop.App",
       "SourceType": "Computed",
       "ContentRoot": "C:\\Users\\kyler\\Desktop\\DOTNET-PRACTICE\\Blazor-App-BethanyPieShop\\Blazor-App-BethanyPieShop\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
-      "RelativePath": "_framework/Microsoft.AspNetCore.Components.Web.dll.gz",
+      "RelativePath": "_framework/Microsoft.AspNetCore.Metadata.dll.gz",
       "AssetKind": "Build",
       "AssetMode": "All",
       "AssetRole": "Alternative",
       "AssetMergeBehavior": "",
       "AssetMergeSource": "",
-      "RelatedAsset": "C:\\Users\\kyler\\Desktop\\DOTNET-PRACTICE\\Blazor-App-BethanyPieShop\\Blazor-App-BethanyPieShop\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.AspNetCore.Components.Web.dll",
+      "RelatedAsset": "C:\\Users\\kyler\\Desktop\\DOTNET-PRACTICE\\Blazor-App-BethanyPieShop\\Blazor-App-BethanyPieShop\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.AspNetCore.Metadata.dll",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Users\\kyler\\Desktop\\DOTNET-PRACTICE\\Blazor-App-BethanyPieShop\\Blazor-App-BethanyPieShop\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.AspNetCore.Components.Web.dll"
-    },
-    {
-      "Identity": "C:\\Users\\kyler\\Desktop\\DOTNET-PRACTICE\\Blazor-App-BethanyPieShop\\Blazor-App-BethanyPieShop\\obj\\Debug\\net6.0\\compressed\\4o1xovuex9.gz",
-      "SourceId": "BlazorBethanyPieShop.App",
-      "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\kyler\\Desktop\\DOTNET-PRACTICE\\Blazor-App-BethanyPieShop\\Blazor-App-BethanyPieShop\\bin\\Debug\\net6.0\\wwwroot\\",
-      "BasePath": "/",
-      "RelativePath": "_framework/Microsoft.JSInterop.dll.gz",
-      "AssetKind": "Build",
-      "AssetMode": "All",
-      "AssetRole": "Alternative",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "C:\\Users\\kyler\\Desktop\\DOTNET-PRACTICE\\Blazor-App-BethanyPieShop\\Blazor-App-BethanyPieShop\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.JSInterop.dll",
-      "AssetTraitName": "Content-Encoding",
-      "AssetTraitValue": "gzip",
-      "CopyToOutputDirectory": "PreserveNewest",
-      "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Users\\kyler\\Desktop\\DOTNET-PRACTICE\\Blazor-App-BethanyPieShop\\Blazor-App-BethanyPieShop\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.JSInterop.dll"
+      "OriginalItemSpec": "C:\\Users\\kyler\\Desktop\\DOTNET-PRACTICE\\Blazor-App-BethanyPieShop\\Blazor-App-BethanyPieShop\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.AspNetCore.Metadata.dll"
     },
     {
       "Identity": "C:\\Users\\kyler\\Desktop\\DOTNET-PRACTICE\\Blazor-App-BethanyPieShop\\Blazor-App-BethanyPieShop\\obj\\Debug\\net6.0\\compressed\\4thze3uwxv.gz",
@@ -4366,25 +4366,6 @@
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\Users\\kyler\\Desktop\\DOTNET-PRACTICE\\Blazor-App-BethanyPieShop\\Blazor-App-BethanyPieShop\\bin\\Debug\\net6.0\\wwwroot\\_framework\\System.IO.Compression.dll"
-    },
-    {
-      "Identity": "C:\\Users\\kyler\\Desktop\\DOTNET-PRACTICE\\Blazor-App-BethanyPieShop\\Blazor-App-BethanyPieShop\\obj\\Debug\\net6.0\\compressed\\5dkoybrelk.gz",
-      "SourceId": "BlazorBethanyPieShop.App",
-      "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\kyler\\Desktop\\DOTNET-PRACTICE\\Blazor-App-BethanyPieShop\\Blazor-App-BethanyPieShop\\bin\\Debug\\net6.0\\wwwroot\\",
-      "BasePath": "/",
-      "RelativePath": "_framework/Microsoft.Extensions.Logging.Abstractions.dll.gz",
-      "AssetKind": "Build",
-      "AssetMode": "All",
-      "AssetRole": "Alternative",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "C:\\Users\\kyler\\Desktop\\DOTNET-PRACTICE\\Blazor-App-BethanyPieShop\\Blazor-App-BethanyPieShop\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.Extensions.Logging.Abstractions.dll",
-      "AssetTraitName": "Content-Encoding",
-      "AssetTraitValue": "gzip",
-      "CopyToOutputDirectory": "PreserveNewest",
-      "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Users\\kyler\\Desktop\\DOTNET-PRACTICE\\Blazor-App-BethanyPieShop\\Blazor-App-BethanyPieShop\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.Extensions.Logging.Abstractions.dll"
     },
     {
       "Identity": "C:\\Users\\kyler\\Desktop\\DOTNET-PRACTICE\\Blazor-App-BethanyPieShop\\Blazor-App-BethanyPieShop\\obj\\Debug\\net6.0\\compressed\\5dwxet96un.gz",
@@ -4632,25 +4613,6 @@
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\Users\\kyler\\Desktop\\DOTNET-PRACTICE\\Blazor-App-BethanyPieShop\\Blazor-App-BethanyPieShop\\bin\\Debug\\net6.0\\wwwroot\\_framework\\System.Xml.XPath.XDocument.dll"
-    },
-    {
-      "Identity": "C:\\Users\\kyler\\Desktop\\DOTNET-PRACTICE\\Blazor-App-BethanyPieShop\\Blazor-App-BethanyPieShop\\obj\\Debug\\net6.0\\compressed\\7whitsh0f0.gz",
-      "SourceId": "BlazorBethanyPieShop.App",
-      "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\kyler\\Desktop\\DOTNET-PRACTICE\\Blazor-App-BethanyPieShop\\Blazor-App-BethanyPieShop\\bin\\Debug\\net6.0\\wwwroot\\",
-      "BasePath": "/",
-      "RelativePath": "_framework/Microsoft.Extensions.DependencyInjection.dll.gz",
-      "AssetKind": "Build",
-      "AssetMode": "All",
-      "AssetRole": "Alternative",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "C:\\Users\\kyler\\Desktop\\DOTNET-PRACTICE\\Blazor-App-BethanyPieShop\\Blazor-App-BethanyPieShop\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.Extensions.DependencyInjection.dll",
-      "AssetTraitName": "Content-Encoding",
-      "AssetTraitValue": "gzip",
-      "CopyToOutputDirectory": "PreserveNewest",
-      "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Users\\kyler\\Desktop\\DOTNET-PRACTICE\\Blazor-App-BethanyPieShop\\Blazor-App-BethanyPieShop\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.Extensions.DependencyInjection.dll"
     },
     {
       "Identity": "C:\\Users\\kyler\\Desktop\\DOTNET-PRACTICE\\Blazor-App-BethanyPieShop\\Blazor-App-BethanyPieShop\\obj\\Debug\\net6.0\\compressed\\81o076q3ct.gz",
@@ -4919,25 +4881,6 @@
       "OriginalItemSpec": "C:\\Users\\kyler\\Desktop\\DOTNET-PRACTICE\\Blazor-App-BethanyPieShop\\Blazor-App-BethanyPieShop\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.Extensions.DependencyInjection.Abstractions.dll"
     },
     {
-      "Identity": "C:\\Users\\kyler\\Desktop\\DOTNET-PRACTICE\\Blazor-App-BethanyPieShop\\Blazor-App-BethanyPieShop\\obj\\Debug\\net6.0\\compressed\\ai55k9nuff.gz",
-      "SourceId": "BlazorBethanyPieShop.App",
-      "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\kyler\\Desktop\\DOTNET-PRACTICE\\Blazor-App-BethanyPieShop\\Blazor-App-BethanyPieShop\\bin\\Debug\\net6.0\\wwwroot\\",
-      "BasePath": "/",
-      "RelativePath": "_framework/Microsoft.AspNetCore.Authorization.dll.gz",
-      "AssetKind": "Build",
-      "AssetMode": "All",
-      "AssetRole": "Alternative",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "C:\\Users\\kyler\\Desktop\\DOTNET-PRACTICE\\Blazor-App-BethanyPieShop\\Blazor-App-BethanyPieShop\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.AspNetCore.Authorization.dll",
-      "AssetTraitName": "Content-Encoding",
-      "AssetTraitValue": "gzip",
-      "CopyToOutputDirectory": "PreserveNewest",
-      "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Users\\kyler\\Desktop\\DOTNET-PRACTICE\\Blazor-App-BethanyPieShop\\Blazor-App-BethanyPieShop\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.AspNetCore.Authorization.dll"
-    },
-    {
       "Identity": "C:\\Users\\kyler\\Desktop\\DOTNET-PRACTICE\\Blazor-App-BethanyPieShop\\Blazor-App-BethanyPieShop\\obj\\Debug\\net6.0\\compressed\\ajm6v004mq.gz",
       "SourceId": "BlazorBethanyPieShop.App",
       "SourceType": "Computed",
@@ -5014,6 +4957,44 @@
       "OriginalItemSpec": "C:\\Users\\kyler\\Desktop\\DOTNET-PRACTICE\\Blazor-App-BethanyPieShop\\Blazor-App-BethanyPieShop\\bin\\Debug\\net6.0\\wwwroot\\_framework\\System.Security.Principal.Windows.dll"
     },
     {
+      "Identity": "C:\\Users\\kyler\\Desktop\\DOTNET-PRACTICE\\Blazor-App-BethanyPieShop\\Blazor-App-BethanyPieShop\\obj\\Debug\\net6.0\\compressed\\au4c78d7dk.gz",
+      "SourceId": "BlazorBethanyPieShop.App",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\kyler\\Desktop\\DOTNET-PRACTICE\\Blazor-App-BethanyPieShop\\Blazor-App-BethanyPieShop\\bin\\Debug\\net6.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/Microsoft.JSInterop.WebAssembly.dll.gz",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\kyler\\Desktop\\DOTNET-PRACTICE\\Blazor-App-BethanyPieShop\\Blazor-App-BethanyPieShop\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.JSInterop.WebAssembly.dll",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "C:\\Users\\kyler\\Desktop\\DOTNET-PRACTICE\\Blazor-App-BethanyPieShop\\Blazor-App-BethanyPieShop\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.JSInterop.WebAssembly.dll"
+    },
+    {
+      "Identity": "C:\\Users\\kyler\\Desktop\\DOTNET-PRACTICE\\Blazor-App-BethanyPieShop\\Blazor-App-BethanyPieShop\\obj\\Debug\\net6.0\\compressed\\b6snz7efbq.gz",
+      "SourceId": "BlazorBethanyPieShop.App",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\kyler\\Desktop\\DOTNET-PRACTICE\\Blazor-App-BethanyPieShop\\Blazor-App-BethanyPieShop\\bin\\Debug\\net6.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/Microsoft.AspNetCore.Components.Web.dll.gz",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\kyler\\Desktop\\DOTNET-PRACTICE\\Blazor-App-BethanyPieShop\\Blazor-App-BethanyPieShop\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.AspNetCore.Components.Web.dll",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "C:\\Users\\kyler\\Desktop\\DOTNET-PRACTICE\\Blazor-App-BethanyPieShop\\Blazor-App-BethanyPieShop\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.AspNetCore.Components.Web.dll"
+    },
+    {
       "Identity": "C:\\Users\\kyler\\Desktop\\DOTNET-PRACTICE\\Blazor-App-BethanyPieShop\\Blazor-App-BethanyPieShop\\obj\\Debug\\net6.0\\compressed\\betx43jki2.gz",
       "SourceId": "BlazorBethanyPieShop.App",
       "SourceType": "Computed",
@@ -5050,6 +5031,25 @@
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\Users\\kyler\\Desktop\\DOTNET-PRACTICE\\Blazor-App-BethanyPieShop\\Blazor-App-BethanyPieShop\\bin\\Debug\\net6.0\\wwwroot\\_framework\\System.Threading.dll"
+    },
+    {
+      "Identity": "C:\\Users\\kyler\\Desktop\\DOTNET-PRACTICE\\Blazor-App-BethanyPieShop\\Blazor-App-BethanyPieShop\\obj\\Debug\\net6.0\\compressed\\byl2l40dkj.gz",
+      "SourceId": "BlazorBethanyPieShop.App",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\kyler\\Desktop\\DOTNET-PRACTICE\\Blazor-App-BethanyPieShop\\Blazor-App-BethanyPieShop\\bin\\Debug\\net6.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/Microsoft.AspNetCore.Components.Forms.dll.gz",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\kyler\\Desktop\\DOTNET-PRACTICE\\Blazor-App-BethanyPieShop\\Blazor-App-BethanyPieShop\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.AspNetCore.Components.Forms.dll",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "C:\\Users\\kyler\\Desktop\\DOTNET-PRACTICE\\Blazor-App-BethanyPieShop\\Blazor-App-BethanyPieShop\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.AspNetCore.Components.Forms.dll"
     },
     {
       "Identity": "C:\\Users\\kyler\\Desktop\\DOTNET-PRACTICE\\Blazor-App-BethanyPieShop\\Blazor-App-BethanyPieShop\\obj\\Debug\\net6.0\\compressed\\c8wmknkas4.gz",
@@ -5145,25 +5145,6 @@
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\Users\\kyler\\Desktop\\DOTNET-PRACTICE\\Blazor-App-BethanyPieShop\\Blazor-App-BethanyPieShop\\bin\\Debug\\net6.0\\wwwroot\\_framework\\System.IO.FileSystem.Watcher.dll"
-    },
-    {
-      "Identity": "C:\\Users\\kyler\\Desktop\\DOTNET-PRACTICE\\Blazor-App-BethanyPieShop\\Blazor-App-BethanyPieShop\\obj\\Debug\\net6.0\\compressed\\coqmidi6q5.gz",
-      "SourceId": "BlazorBethanyPieShop.App",
-      "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\kyler\\Desktop\\DOTNET-PRACTICE\\Blazor-App-BethanyPieShop\\Blazor-App-BethanyPieShop\\bin\\Debug\\net6.0\\wwwroot\\",
-      "BasePath": "/",
-      "RelativePath": "_framework/Microsoft.AspNetCore.Components.WebAssembly.dll.gz",
-      "AssetKind": "Build",
-      "AssetMode": "All",
-      "AssetRole": "Alternative",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "C:\\Users\\kyler\\Desktop\\DOTNET-PRACTICE\\Blazor-App-BethanyPieShop\\Blazor-App-BethanyPieShop\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.AspNetCore.Components.WebAssembly.dll",
-      "AssetTraitName": "Content-Encoding",
-      "AssetTraitValue": "gzip",
-      "CopyToOutputDirectory": "PreserveNewest",
-      "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Users\\kyler\\Desktop\\DOTNET-PRACTICE\\Blazor-App-BethanyPieShop\\Blazor-App-BethanyPieShop\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.AspNetCore.Components.WebAssembly.dll"
     },
     {
       "Identity": "C:\\Users\\kyler\\Desktop\\DOTNET-PRACTICE\\Blazor-App-BethanyPieShop\\Blazor-App-BethanyPieShop\\obj\\Debug\\net6.0\\compressed\\cr1g9v597k.gz",
@@ -5299,25 +5280,6 @@
       "OriginalItemSpec": "C:\\Users\\kyler\\Desktop\\DOTNET-PRACTICE\\Blazor-App-BethanyPieShop\\Blazor-App-BethanyPieShop\\bin\\Debug\\net6.0\\wwwroot\\_framework\\System.IO.Compression.FileSystem.dll"
     },
     {
-      "Identity": "C:\\Users\\kyler\\Desktop\\DOTNET-PRACTICE\\Blazor-App-BethanyPieShop\\Blazor-App-BethanyPieShop\\obj\\Debug\\net6.0\\compressed\\e3ckvof9rx.gz",
-      "SourceId": "BlazorBethanyPieShop.App",
-      "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\kyler\\Desktop\\DOTNET-PRACTICE\\Blazor-App-BethanyPieShop\\Blazor-App-BethanyPieShop\\bin\\Debug\\net6.0\\wwwroot\\",
-      "BasePath": "/",
-      "RelativePath": "_framework/Microsoft.AspNetCore.Metadata.dll.gz",
-      "AssetKind": "Build",
-      "AssetMode": "All",
-      "AssetRole": "Alternative",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "C:\\Users\\kyler\\Desktop\\DOTNET-PRACTICE\\Blazor-App-BethanyPieShop\\Blazor-App-BethanyPieShop\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.AspNetCore.Metadata.dll",
-      "AssetTraitName": "Content-Encoding",
-      "AssetTraitValue": "gzip",
-      "CopyToOutputDirectory": "PreserveNewest",
-      "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Users\\kyler\\Desktop\\DOTNET-PRACTICE\\Blazor-App-BethanyPieShop\\Blazor-App-BethanyPieShop\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.AspNetCore.Metadata.dll"
-    },
-    {
       "Identity": "C:\\Users\\kyler\\Desktop\\DOTNET-PRACTICE\\Blazor-App-BethanyPieShop\\Blazor-App-BethanyPieShop\\obj\\Debug\\net6.0\\compressed\\e4yhaxngyf.gz",
       "SourceId": "BlazorBethanyPieShop.App",
       "SourceType": "Computed",
@@ -5449,6 +5411,25 @@
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\Users\\kyler\\Desktop\\DOTNET-PRACTICE\\Blazor-App-BethanyPieShop\\Blazor-App-BethanyPieShop\\bin\\Debug\\net6.0\\wwwroot\\_framework\\System.Numerics.dll"
+    },
+    {
+      "Identity": "C:\\Users\\kyler\\Desktop\\DOTNET-PRACTICE\\Blazor-App-BethanyPieShop\\Blazor-App-BethanyPieShop\\obj\\Debug\\net6.0\\compressed\\f7xeugdzt0.gz",
+      "SourceId": "BlazorBethanyPieShop.App",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\kyler\\Desktop\\DOTNET-PRACTICE\\Blazor-App-BethanyPieShop\\Blazor-App-BethanyPieShop\\bin\\Debug\\net6.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/Microsoft.Extensions.Logging.Abstractions.dll.gz",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\kyler\\Desktop\\DOTNET-PRACTICE\\Blazor-App-BethanyPieShop\\Blazor-App-BethanyPieShop\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.Extensions.Logging.Abstractions.dll",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "C:\\Users\\kyler\\Desktop\\DOTNET-PRACTICE\\Blazor-App-BethanyPieShop\\Blazor-App-BethanyPieShop\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.Extensions.Logging.Abstractions.dll"
     },
     {
       "Identity": "C:\\Users\\kyler\\Desktop\\DOTNET-PRACTICE\\Blazor-App-BethanyPieShop\\Blazor-App-BethanyPieShop\\obj\\Debug\\net6.0\\compressed\\fbyru6cqnu.gz",
@@ -5755,25 +5736,6 @@
       "OriginalItemSpec": "C:\\Users\\kyler\\Desktop\\DOTNET-PRACTICE\\Blazor-App-BethanyPieShop\\Blazor-App-BethanyPieShop\\bin\\Debug\\net6.0\\wwwroot\\_framework\\System.Console.dll"
     },
     {
-      "Identity": "C:\\Users\\kyler\\Desktop\\DOTNET-PRACTICE\\Blazor-App-BethanyPieShop\\Blazor-App-BethanyPieShop\\obj\\Debug\\net6.0\\compressed\\ikmnkfjxn8.gz",
-      "SourceId": "BlazorBethanyPieShop.App",
-      "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\kyler\\Desktop\\DOTNET-PRACTICE\\Blazor-App-BethanyPieShop\\Blazor-App-BethanyPieShop\\bin\\Debug\\net6.0\\wwwroot\\",
-      "BasePath": "/",
-      "RelativePath": "_framework/Microsoft.JSInterop.WebAssembly.dll.gz",
-      "AssetKind": "Build",
-      "AssetMode": "All",
-      "AssetRole": "Alternative",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "C:\\Users\\kyler\\Desktop\\DOTNET-PRACTICE\\Blazor-App-BethanyPieShop\\Blazor-App-BethanyPieShop\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.JSInterop.WebAssembly.dll",
-      "AssetTraitName": "Content-Encoding",
-      "AssetTraitValue": "gzip",
-      "CopyToOutputDirectory": "PreserveNewest",
-      "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Users\\kyler\\Desktop\\DOTNET-PRACTICE\\Blazor-App-BethanyPieShop\\Blazor-App-BethanyPieShop\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.JSInterop.WebAssembly.dll"
-    },
-    {
       "Identity": "C:\\Users\\kyler\\Desktop\\DOTNET-PRACTICE\\Blazor-App-BethanyPieShop\\Blazor-App-BethanyPieShop\\obj\\Debug\\net6.0\\compressed\\ixaedxrdlu.gz",
       "SourceId": "BlazorBethanyPieShop.App",
       "SourceType": "Computed",
@@ -5907,6 +5869,25 @@
       "OriginalItemSpec": "C:\\Users\\kyler\\Desktop\\DOTNET-PRACTICE\\Blazor-App-BethanyPieShop\\Blazor-App-BethanyPieShop\\bin\\Debug\\net6.0\\wwwroot\\_framework\\System.ComponentModel.TypeConverter.dll"
     },
     {
+      "Identity": "C:\\Users\\kyler\\Desktop\\DOTNET-PRACTICE\\Blazor-App-BethanyPieShop\\Blazor-App-BethanyPieShop\\obj\\Debug\\net6.0\\compressed\\jkjxc28unk.gz",
+      "SourceId": "BlazorBethanyPieShop.App",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\kyler\\Desktop\\DOTNET-PRACTICE\\Blazor-App-BethanyPieShop\\Blazor-App-BethanyPieShop\\bin\\Debug\\net6.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/Microsoft.Extensions.DependencyInjection.dll.gz",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\kyler\\Desktop\\DOTNET-PRACTICE\\Blazor-App-BethanyPieShop\\Blazor-App-BethanyPieShop\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.Extensions.DependencyInjection.dll",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "C:\\Users\\kyler\\Desktop\\DOTNET-PRACTICE\\Blazor-App-BethanyPieShop\\Blazor-App-BethanyPieShop\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.Extensions.DependencyInjection.dll"
+    },
+    {
       "Identity": "C:\\Users\\kyler\\Desktop\\DOTNET-PRACTICE\\Blazor-App-BethanyPieShop\\Blazor-App-BethanyPieShop\\obj\\Debug\\net6.0\\compressed\\k5rp4ffop3.gz",
       "SourceId": "BlazorBethanyPieShop.App",
       "SourceType": "Computed",
@@ -6038,44 +6019,6 @@
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\Users\\kyler\\Desktop\\DOTNET-PRACTICE\\Blazor-App-BethanyPieShop\\Blazor-App-BethanyPieShop\\bin\\Debug\\net6.0\\wwwroot\\_framework\\dotnet.timezones.blat"
-    },
-    {
-      "Identity": "C:\\Users\\kyler\\Desktop\\DOTNET-PRACTICE\\Blazor-App-BethanyPieShop\\Blazor-App-BethanyPieShop\\obj\\Debug\\net6.0\\compressed\\lce29iv03y.gz",
-      "SourceId": "BlazorBethanyPieShop.App",
-      "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\kyler\\Desktop\\DOTNET-PRACTICE\\Blazor-App-BethanyPieShop\\Blazor-App-BethanyPieShop\\bin\\Debug\\net6.0\\wwwroot\\",
-      "BasePath": "/",
-      "RelativePath": "_framework/Microsoft.AspNetCore.Components.Forms.dll.gz",
-      "AssetKind": "Build",
-      "AssetMode": "All",
-      "AssetRole": "Alternative",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "C:\\Users\\kyler\\Desktop\\DOTNET-PRACTICE\\Blazor-App-BethanyPieShop\\Blazor-App-BethanyPieShop\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.AspNetCore.Components.Forms.dll",
-      "AssetTraitName": "Content-Encoding",
-      "AssetTraitValue": "gzip",
-      "CopyToOutputDirectory": "PreserveNewest",
-      "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Users\\kyler\\Desktop\\DOTNET-PRACTICE\\Blazor-App-BethanyPieShop\\Blazor-App-BethanyPieShop\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.AspNetCore.Components.Forms.dll"
-    },
-    {
-      "Identity": "C:\\Users\\kyler\\Desktop\\DOTNET-PRACTICE\\Blazor-App-BethanyPieShop\\Blazor-App-BethanyPieShop\\obj\\Debug\\net6.0\\compressed\\m84nr61l4a.gz",
-      "SourceId": "BlazorBethanyPieShop.App",
-      "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\kyler\\Desktop\\DOTNET-PRACTICE\\Blazor-App-BethanyPieShop\\Blazor-App-BethanyPieShop\\bin\\Debug\\net6.0\\wwwroot\\",
-      "BasePath": "/",
-      "RelativePath": "_framework/blazor.webassembly.js.gz",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Alternative",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "C:\\Users\\kyler\\Desktop\\DOTNET-PRACTICE\\Blazor-App-BethanyPieShop\\Blazor-App-BethanyPieShop\\bin\\Debug\\net6.0\\wwwroot\\_framework\\blazor.webassembly.js",
-      "AssetTraitName": "Content-Encoding",
-      "AssetTraitValue": "gzip",
-      "CopyToOutputDirectory": "PreserveNewest",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\kyler\\Desktop\\DOTNET-PRACTICE\\Blazor-App-BethanyPieShop\\Blazor-App-BethanyPieShop\\bin\\Debug\\net6.0\\wwwroot\\_framework\\blazor.webassembly.js"
     },
     {
       "Identity": "C:\\Users\\kyler\\Desktop\\DOTNET-PRACTICE\\Blazor-App-BethanyPieShop\\Blazor-App-BethanyPieShop\\obj\\Debug\\net6.0\\compressed\\m9atjov47c.gz",
@@ -6287,6 +6230,25 @@
       "OriginalItemSpec": "C:\\Users\\kyler\\Desktop\\DOTNET-PRACTICE\\Blazor-App-BethanyPieShop\\Blazor-App-BethanyPieShop\\bin\\Debug\\net6.0\\wwwroot\\_framework\\System.Threading.Thread.dll"
     },
     {
+      "Identity": "C:\\Users\\kyler\\Desktop\\DOTNET-PRACTICE\\Blazor-App-BethanyPieShop\\Blazor-App-BethanyPieShop\\obj\\Debug\\net6.0\\compressed\\nqnwotlnsh.gz",
+      "SourceId": "BlazorBethanyPieShop.App",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\kyler\\Desktop\\DOTNET-PRACTICE\\Blazor-App-BethanyPieShop\\Blazor-App-BethanyPieShop\\bin\\Debug\\net6.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/Microsoft.AspNetCore.Components.dll.gz",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\kyler\\Desktop\\DOTNET-PRACTICE\\Blazor-App-BethanyPieShop\\Blazor-App-BethanyPieShop\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.AspNetCore.Components.dll",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "C:\\Users\\kyler\\Desktop\\DOTNET-PRACTICE\\Blazor-App-BethanyPieShop\\Blazor-App-BethanyPieShop\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.AspNetCore.Components.dll"
+    },
+    {
       "Identity": "C:\\Users\\kyler\\Desktop\\DOTNET-PRACTICE\\Blazor-App-BethanyPieShop\\Blazor-App-BethanyPieShop\\obj\\Debug\\net6.0\\compressed\\o0abvfhh1b.gz",
       "SourceId": "BlazorBethanyPieShop.App",
       "SourceType": "Computed",
@@ -6361,6 +6323,25 @@
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\Users\\kyler\\Desktop\\DOTNET-PRACTICE\\Blazor-App-BethanyPieShop\\Blazor-App-BethanyPieShop\\bin\\Debug\\net6.0\\wwwroot\\_framework\\System.Net.Http.dll"
+    },
+    {
+      "Identity": "C:\\Users\\kyler\\Desktop\\DOTNET-PRACTICE\\Blazor-App-BethanyPieShop\\Blazor-App-BethanyPieShop\\obj\\Debug\\net6.0\\compressed\\od93f76awa.gz",
+      "SourceId": "BlazorBethanyPieShop.App",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\kyler\\Desktop\\DOTNET-PRACTICE\\Blazor-App-BethanyPieShop\\Blazor-App-BethanyPieShop\\bin\\Debug\\net6.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/Microsoft.Extensions.Http.dll.gz",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\kyler\\Desktop\\DOTNET-PRACTICE\\Blazor-App-BethanyPieShop\\Blazor-App-BethanyPieShop\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.Extensions.Http.dll",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "C:\\Users\\kyler\\Desktop\\DOTNET-PRACTICE\\Blazor-App-BethanyPieShop\\Blazor-App-BethanyPieShop\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.Extensions.Http.dll"
     },
     {
       "Identity": "C:\\Users\\kyler\\Desktop\\DOTNET-PRACTICE\\Blazor-App-BethanyPieShop\\Blazor-App-BethanyPieShop\\obj\\Debug\\net6.0\\compressed\\ok109mii0o.gz",
@@ -6629,25 +6610,6 @@
       "OriginalItemSpec": "C:\\Users\\kyler\\Desktop\\DOTNET-PRACTICE\\Blazor-App-BethanyPieShop\\Blazor-App-BethanyPieShop\\bin\\Debug\\net6.0\\wwwroot\\_framework\\System.Linq.Queryable.dll"
     },
     {
-      "Identity": "C:\\Users\\kyler\\Desktop\\DOTNET-PRACTICE\\Blazor-App-BethanyPieShop\\Blazor-App-BethanyPieShop\\obj\\Debug\\net6.0\\compressed\\r8v3vfyte6.gz",
-      "SourceId": "BlazorBethanyPieShop.App",
-      "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\kyler\\Desktop\\DOTNET-PRACTICE\\Blazor-App-BethanyPieShop\\Blazor-App-BethanyPieShop\\bin\\Debug\\net6.0\\wwwroot\\",
-      "BasePath": "/",
-      "RelativePath": "_framework/Microsoft.AspNetCore.Components.dll.gz",
-      "AssetKind": "Build",
-      "AssetMode": "All",
-      "AssetRole": "Alternative",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "C:\\Users\\kyler\\Desktop\\DOTNET-PRACTICE\\Blazor-App-BethanyPieShop\\Blazor-App-BethanyPieShop\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.AspNetCore.Components.dll",
-      "AssetTraitName": "Content-Encoding",
-      "AssetTraitValue": "gzip",
-      "CopyToOutputDirectory": "PreserveNewest",
-      "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Users\\kyler\\Desktop\\DOTNET-PRACTICE\\Blazor-App-BethanyPieShop\\Blazor-App-BethanyPieShop\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.AspNetCore.Components.dll"
-    },
-    {
       "Identity": "C:\\Users\\kyler\\Desktop\\DOTNET-PRACTICE\\Blazor-App-BethanyPieShop\\Blazor-App-BethanyPieShop\\obj\\Debug\\net6.0\\compressed\\rbcp1zyqeh.gz",
       "SourceId": "BlazorBethanyPieShop.App",
       "SourceType": "Computed",
@@ -6876,6 +6838,25 @@
       "OriginalItemSpec": "C:\\Users\\kyler\\Desktop\\DOTNET-PRACTICE\\Blazor-App-BethanyPieShop\\Blazor-App-BethanyPieShop\\bin\\Debug\\net6.0\\wwwroot\\_framework\\icudt_EFIGS.dat"
     },
     {
+      "Identity": "C:\\Users\\kyler\\Desktop\\DOTNET-PRACTICE\\Blazor-App-BethanyPieShop\\Blazor-App-BethanyPieShop\\obj\\Debug\\net6.0\\compressed\\ticuphjvvp.gz",
+      "SourceId": "BlazorBethanyPieShop.App",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\kyler\\Desktop\\DOTNET-PRACTICE\\Blazor-App-BethanyPieShop\\Blazor-App-BethanyPieShop\\bin\\Debug\\net6.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/blazor.webassembly.js.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\kyler\\Desktop\\DOTNET-PRACTICE\\Blazor-App-BethanyPieShop\\Blazor-App-BethanyPieShop\\bin\\Debug\\net6.0\\wwwroot\\_framework\\blazor.webassembly.js",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\kyler\\Desktop\\DOTNET-PRACTICE\\Blazor-App-BethanyPieShop\\Blazor-App-BethanyPieShop\\bin\\Debug\\net6.0\\wwwroot\\_framework\\blazor.webassembly.js"
+    },
+    {
       "Identity": "C:\\Users\\kyler\\Desktop\\DOTNET-PRACTICE\\Blazor-App-BethanyPieShop\\Blazor-App-BethanyPieShop\\obj\\Debug\\net6.0\\compressed\\tt414cqhv3.gz",
       "SourceId": "BlazorBethanyPieShop.App",
       "SourceType": "Computed",
@@ -7047,6 +7028,25 @@
       "OriginalItemSpec": "C:\\Users\\kyler\\Desktop\\DOTNET-PRACTICE\\Blazor-App-BethanyPieShop\\Blazor-App-BethanyPieShop\\bin\\Debug\\net6.0\\wwwroot\\_framework\\System.Net.WebSockets.Client.dll"
     },
     {
+      "Identity": "C:\\Users\\kyler\\Desktop\\DOTNET-PRACTICE\\Blazor-App-BethanyPieShop\\Blazor-App-BethanyPieShop\\obj\\Debug\\net6.0\\compressed\\v6jxgvliun.gz",
+      "SourceId": "BlazorBethanyPieShop.App",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\kyler\\Desktop\\DOTNET-PRACTICE\\Blazor-App-BethanyPieShop\\Blazor-App-BethanyPieShop\\bin\\Debug\\net6.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/Microsoft.JSInterop.dll.gz",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\kyler\\Desktop\\DOTNET-PRACTICE\\Blazor-App-BethanyPieShop\\Blazor-App-BethanyPieShop\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.JSInterop.dll",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "C:\\Users\\kyler\\Desktop\\DOTNET-PRACTICE\\Blazor-App-BethanyPieShop\\Blazor-App-BethanyPieShop\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.JSInterop.dll"
+    },
+    {
       "Identity": "C:\\Users\\kyler\\Desktop\\DOTNET-PRACTICE\\Blazor-App-BethanyPieShop\\Blazor-App-BethanyPieShop\\obj\\Debug\\net6.0\\compressed\\vq95ozxnx2.gz",
       "SourceId": "BlazorBethanyPieShop.App",
       "SourceType": "Computed",
@@ -7064,6 +7064,25 @@
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\Users\\kyler\\Desktop\\DOTNET-PRACTICE\\Blazor-App-BethanyPieShop\\Blazor-App-BethanyPieShop\\bin\\Debug\\net6.0\\wwwroot\\_framework\\System.Collections.Immutable.dll"
+    },
+    {
+      "Identity": "C:\\Users\\kyler\\Desktop\\DOTNET-PRACTICE\\Blazor-App-BethanyPieShop\\Blazor-App-BethanyPieShop\\obj\\Debug\\net6.0\\compressed\\w6hyik271j.gz",
+      "SourceId": "BlazorBethanyPieShop.App",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\kyler\\Desktop\\DOTNET-PRACTICE\\Blazor-App-BethanyPieShop\\Blazor-App-BethanyPieShop\\bin\\Debug\\net6.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/Microsoft.AspNetCore.Authorization.dll.gz",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\kyler\\Desktop\\DOTNET-PRACTICE\\Blazor-App-BethanyPieShop\\Blazor-App-BethanyPieShop\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.AspNetCore.Authorization.dll",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "C:\\Users\\kyler\\Desktop\\DOTNET-PRACTICE\\Blazor-App-BethanyPieShop\\Blazor-App-BethanyPieShop\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.AspNetCore.Authorization.dll"
     },
     {
       "Identity": "C:\\Users\\kyler\\Desktop\\DOTNET-PRACTICE\\Blazor-App-BethanyPieShop\\Blazor-App-BethanyPieShop\\obj\\Debug\\net6.0\\compressed\\w89dmfuivq.gz",
@@ -7311,6 +7330,25 @@
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\Users\\kyler\\Desktop\\DOTNET-PRACTICE\\Blazor-App-BethanyPieShop\\Blazor-App-BethanyPieShop\\bin\\Debug\\net6.0\\wwwroot\\_framework\\System.Net.Security.dll"
+    },
+    {
+      "Identity": "C:\\Users\\kyler\\Desktop\\DOTNET-PRACTICE\\Blazor-App-BethanyPieShop\\Blazor-App-BethanyPieShop\\obj\\Debug\\net6.0\\compressed\\xorjaqlm6v.gz",
+      "SourceId": "BlazorBethanyPieShop.App",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\kyler\\Desktop\\DOTNET-PRACTICE\\Blazor-App-BethanyPieShop\\Blazor-App-BethanyPieShop\\bin\\Debug\\net6.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/Microsoft.AspNetCore.Components.WebAssembly.dll.gz",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\kyler\\Desktop\\DOTNET-PRACTICE\\Blazor-App-BethanyPieShop\\Blazor-App-BethanyPieShop\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.AspNetCore.Components.WebAssembly.dll",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "C:\\Users\\kyler\\Desktop\\DOTNET-PRACTICE\\Blazor-App-BethanyPieShop\\Blazor-App-BethanyPieShop\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.AspNetCore.Components.WebAssembly.dll"
     },
     {
       "Identity": "C:\\Users\\kyler\\Desktop\\DOTNET-PRACTICE\\Blazor-App-BethanyPieShop\\Blazor-App-BethanyPieShop\\obj\\Debug\\net6.0\\compressed\\xrajve81il.gz",
