@@ -1,0 +1,38 @@
+﻿@page "/"
+
+@using BethanysPieShopHRM.Shared.Domain
+
+
+<h1>Hello, Data Binding in Blazor!</h1>
+
+<div>
+	<h2>One way data binding</h2>
+	Employee first: <label>@Employee.FirstName</label>
+	Employee last: <label>@Employee.LastName</label>
+</div>
+
+<div>
+	<h2>One way data binding on form controls</h2>
+	Employee first:
+	<input value="@Employee.FirstName" />
+	Employee last:
+	<input value="@Employee.LastName" />
+</div>
+
+<div>
+	<h2>Two way data binding</h2>
+	Employee first:
+	<input @bind="@Employee.FirstName" />
+	Employee last:
+	<input @bind="@Employee.LastName" />
+</div>
+
+<div>
+	<h2>Two way data binding on a different event</h2>
+	Employee first: <input @bind-value="@Employee.FirstName" @bind-value:event="oninput" />
+	Emplyee last:  <input @bind-value="@Employee.LastName" @bind-value:event="oninput" />
+</div>
+
+<div>
+	<button @onclick="Button_Click">Click Me</button>
+</div>
