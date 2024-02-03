@@ -1,6 +1,7 @@
 ﻿using BethanysPieShopHRM.Shared.Domain;
 using BlazorBethanyPieShop.App.Services;
 using Microsoft.AspNetCore.Components;
+using Microsoft.AspNetCore.Components.Forms;
 using System.Runtime.CompilerServices;
 
 namespace BlazorBethanyPieShop.App.Pages
@@ -60,20 +61,22 @@ namespace BlazorBethanyPieShop.App.Pages
         {
             Saved = false;
 
-            if (Employee.EmployeeId == 0) //new
+          
+            if (Employee.EmployeeId == 0)  
             {
-                //image adding
-                //if (selectedFile != null)//take first image
-                //{
-                //    var file = selectedFile;
-                //    Stream stream = file.OpenReadStream();
-                //    MemoryStream ms = new();
-                //    await stream.CopyToAsync(ms);
-                //    stream.Close();
+				//IF A NEW EMPLOYEE THEN ADD IMAGE
+				//IMAGE ADDING
+				if (selectedFile != null)//TAKE FIRST IMAGE
+                {
+                    var file = selectedFile;
+                    Stream stream = file.OpenReadStream();
+                    MemoryStream ms = new();
+                    await stream.CopyToAsync(ms);
+                    stream.Close();
 
-                //    Employee.ImageName = file.Name;
-                //    Employee.ImageContent = ms.ToArray();
-                //}
+                    Employee.ImageName = file.Name;
+                    Employee.ImageContent = ms.ToArray();
+                }
 
                 var addedEmployee = await EmployeeDataService.AddEmployee(Employee);
                 if (addedEmployee != null)
@@ -97,6 +100,17 @@ namespace BlazorBethanyPieShop.App.Pages
                 Saved = true;
             }
         }
+
+
+        private IBrowserFile selectedFile;
+
+        private void OnInputFileChange(InputFileChangeEventArgs e)
+        {
+            selectedFile = e.File;
+            StateHasChanged();
+        }
+
+
         protected async Task HandleInvalidSubmit()
         {
             StatusClass = "alert-danger";

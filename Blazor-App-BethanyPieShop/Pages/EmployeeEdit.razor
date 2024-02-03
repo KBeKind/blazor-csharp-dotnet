@@ -13,14 +13,14 @@
 		<EditForm Model="@Employee" OnValidSubmit="@HandleValidSubmit" OnInvalidSubmit="@HandleInvalidSubmit">
 
 			<DataAnnotationsValidator />
-			<ValidationSummary></ValidationSummary>
+			<ValidationSummary />
 
 			@if (Employee.EmployeeId == 0)
 			{
 				<div class="row mb-3">
 					<label for="image" class="col-12 col-sm-3">Select image: </label>
 					<div class="col-md-8">
-						@*   <InputFile OnChange="OnInputFileChange" /> *@
+						<InputFile OnChange="OnInputFileChange" />
 					</div>
 
 				</div>

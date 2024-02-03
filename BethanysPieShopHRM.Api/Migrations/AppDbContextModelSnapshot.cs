@@ -115,6 +115,9 @@ namespace BethanysPieShopHRM.Api.Migrations
                     b.Property<int>("Gender")
                         .HasColumnType("integer");
 
+                    b.Property<string>("ImageName")
+                        .HasColumnType("text");
+
                     b.Property<int>("JobCategoryId")
                         .HasColumnType("integer");
 
