@@ -93,3 +93,6 @@ C:\Users\kyler\Desktop\DOTNET-PRACTICE\Blazor-App-BethanyPieShop\BethanysPieShop
 C:\Users\kyler\Desktop\DOTNET-PRACTICE\Blazor-App-BethanyPieShop\BethanysPieShopHRM.Api\bin\Debug\net6.0\BlazorBethanyPieShop.App.dll
 C:\Users\kyler\Desktop\DOTNET-PRACTICE\Blazor-App-BethanyPieShop\BethanysPieShopHRM.Api\bin\Debug\net6.0\BlazorBethanyPieShop.App.pdb
 C:\Users\kyler\Desktop\DOTNET-PRACTICE\Blazor-App-BethanyPieShop\BethanysPieShopHRM.Api\bin\Debug\net6.0\Blazored.LocalStorage.dll
+C:\Users\kyler\Desktop\DOTNET-PRACTICE\Blazor-App-BethanyPieShop\BethanysPieShopHRM.Api\bin\Debug\net6.0\BethanysPieShopHRM.ComponentsLibrary.staticwebassets.runtime.json
+C:\Users\kyler\Desktop\DOTNET-PRACTICE\Blazor-App-BethanyPieShop\BethanysPieShopHRM.Api\bin\Debug\net6.0\BethanysPieShopHRM.ComponentsLibrary.dll
+C:\Users\kyler\Desktop\DOTNET-PRACTICE\Blazor-App-BethanyPieShop\BethanysPieShopHRM.Api\bin\Debug\net6.0\BethanysPieShopHRM.ComponentsLibrary.pdb

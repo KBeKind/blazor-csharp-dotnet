@@ -3,7 +3,7 @@ using Microsoft.AspNetCore.Components;
 using Microsoft.JSInterop;
 
 
-namespace BlazorBethanyPieShop.App.Components
+namespace BethanysPieShopHRM.ComponentsLibrary
 {
 	public partial class Map
 	{
