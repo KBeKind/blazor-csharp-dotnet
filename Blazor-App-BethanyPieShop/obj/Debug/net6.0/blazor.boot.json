@@ -1,7 +1,7 @@
 {
   "entryAssembly": "BlazorBethanyPieShop.App",
   "resources": {
-    "hash": "sha256-Do0f+UjuwPUnQufGdcJpCHV2bjRDHMhI3KWcE4pFdBs=",
+    "hash": "sha256-335qGoWwp3SupEMbGoqk6f4TsZo/fTBg5UklmRrF+tk=",
     "runtime": {
       "dotnet.6.0.26.zldu2hn6lg.js": "sha256-q4SPzhRyXlR1HXK6WAbwJRNI6jvBBYUisoHeH0+eRyM=",
       "dotnet.timezones.blat": "sha256-klrDSl9zL0jGM+Fc+fiCLbJ5Z7U2C9fTDn0+NmIH9VY=",
@@ -202,12 +202,12 @@
       "mscorlib.dll": "sha256-s5oSn2ty4Q1q2t/0DWCHXo4ll77GsoYrYe5ExHyAg0o=",
       "netstandard.dll": "sha256-AH9oqzxpl6lGTr9vEnTGTk40WK7IpSuGlKS3dTEC67I=",
       "System.Private.CoreLib.dll": "sha256-ae6NSkrFVtQY8QH8C38+ZYQDBUinD+PjmAf/eE/eVMQ=",
-      "BethanysPieShopHRM.Shared.dll": "sha256-o7suHIqXKg8V68CiJP66rXAqjRby5Nsx8pZ4JrF2I8E=",
-      "BlazorBethanyPieShop.App.dll": "sha256-CYMbGMbt3v7Eq+1U4MWuogSlrYbP+Z5XioCx8aFdt58="
+      "BethanysPieShopHRM.Shared.dll": "sha256-O39JZYheQlkd7h79fVoNGQnbbHSNPa40OiWXbjruwgk=",
+      "BlazorBethanyPieShop.App.dll": "sha256-cLW+WbK73SWYwijGFql/4yiMjN6wKPyf2siUqbD6iLI="
     },
     "pdb": {
-      "BethanysPieShopHRM.Shared.pdb": "sha256-q9IkE6aJMdDPfvC5daEz0r/mn40+ELNKPBloyI2/x44=",
-      "BlazorBethanyPieShop.App.pdb": "sha256-z30JtJWZYBP7UR7B5JMwPJ9jkIZB7wVnBoS2YmAPzlI="
+      "BethanysPieShopHRM.Shared.pdb": "sha256-QdkwhSC8mCKO/ae7ldwXFa/qbqA9OyXmPoLmk9IRRFk=",
+      "BlazorBethanyPieShop.App.pdb": "sha256-fGRA+2mMc3kX9Ph9h6xRfUmNgDrb2YPmXRBKBf9WT60="
     },
     "runtimeAssets": {
       "dotnet.wasm": {

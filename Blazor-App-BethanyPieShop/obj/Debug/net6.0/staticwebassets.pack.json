@@ -61,6 +61,10 @@
       "PackagePath": "staticwebassets\\css\\open-iconic\\font\\fonts\\open-iconic.woff"
     },
     {
+      "Id": "C:\\Users\\kyler\\Desktop\\DOTNET-PRACTICE\\Blazor-App-BethanyPieShop\\Blazor-App-BethanyPieShop\\wwwroot\\deliveryMap.js",
+      "PackagePath": "staticwebassets\\deliveryMap.js"
+    },
+    {
       "Id": "C:\\Users\\kyler\\Desktop\\DOTNET-PRACTICE\\Blazor-App-BethanyPieShop\\Blazor-App-BethanyPieShop\\wwwroot\\favicon.ico",
       "PackagePath": "staticwebassets\\favicon.ico"
     },
@@ -83,6 +87,34 @@
     {
       "Id": "C:\\Users\\kyler\\Desktop\\DOTNET-PRACTICE\\Blazor-App-BethanyPieShop\\Blazor-App-BethanyPieShop\\wwwroot\\index.html",
       "PackagePath": "staticwebassets\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\kyler\\Desktop\\DOTNET-PRACTICE\\Blazor-App-BethanyPieShop\\Blazor-App-BethanyPieShop\\wwwroot\\leaflet\\images\\layers-2x.png",
+      "PackagePath": "staticwebassets\\leaflet\\images\\layers-2x.png"
+    },
+    {
+      "Id": "C:\\Users\\kyler\\Desktop\\DOTNET-PRACTICE\\Blazor-App-BethanyPieShop\\Blazor-App-BethanyPieShop\\wwwroot\\leaflet\\images\\layers.png",
+      "PackagePath": "staticwebassets\\leaflet\\images\\layers.png"
+    },
+    {
+      "Id": "C:\\Users\\kyler\\Desktop\\DOTNET-PRACTICE\\Blazor-App-BethanyPieShop\\Blazor-App-BethanyPieShop\\wwwroot\\leaflet\\images\\marker-icon-2x.png",
+      "PackagePath": "staticwebassets\\leaflet\\images\\marker-icon-2x.png"
+    },
+    {
+      "Id": "C:\\Users\\kyler\\Desktop\\DOTNET-PRACTICE\\Blazor-App-BethanyPieShop\\Blazor-App-BethanyPieShop\\wwwroot\\leaflet\\images\\marker-icon.png",
+      "PackagePath": "staticwebassets\\leaflet\\images\\marker-icon.png"
+    },
+    {
+      "Id": "C:\\Users\\kyler\\Desktop\\DOTNET-PRACTICE\\Blazor-App-BethanyPieShop\\Blazor-App-BethanyPieShop\\wwwroot\\leaflet\\images\\marker-shadow.png",
+      "PackagePath": "staticwebassets\\leaflet\\images\\marker-shadow.png"
+    },
+    {
+      "Id": "C:\\Users\\kyler\\Desktop\\DOTNET-PRACTICE\\Blazor-App-BethanyPieShop\\Blazor-App-BethanyPieShop\\wwwroot\\leaflet\\leaflet.css",
+      "PackagePath": "staticwebassets\\leaflet\\leaflet.css"
+    },
+    {
+      "Id": "C:\\Users\\kyler\\Desktop\\DOTNET-PRACTICE\\Blazor-App-BethanyPieShop\\Blazor-App-BethanyPieShop\\wwwroot\\leaflet\\leaflet.js",
+      "PackagePath": "staticwebassets\\leaflet\\leaflet.js"
     },
     {
       "Id": "C:\\Users\\kyler\\Desktop\\DOTNET-PRACTICE\\Blazor-App-BethanyPieShop\\Blazor-App-BethanyPieShop\\wwwroot\\lib\\bootstrap\\css\\bootstrap-grid.css",
