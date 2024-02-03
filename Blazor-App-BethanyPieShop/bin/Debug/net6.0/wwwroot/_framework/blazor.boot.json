@@ -1,7 +1,7 @@
 {
   "entryAssembly": "BlazorBethanyPieShop.App",
   "resources": {
-    "hash": "sha256-lW2pjtZ+eY36/AIzDGPTtcrXO7AQGtKCzlpveIONiWs=",
+    "hash": "sha256-y0ujdmzBuGWeU112Sw+PW8TxYb077GnXMa2iojmJUeI=",
     "runtime": {
       "dotnet.6.0.26.zldu2hn6lg.js": "sha256-q4SPzhRyXlR1HXK6WAbwJRNI6jvBBYUisoHeH0+eRyM=",
       "dotnet.timezones.blat": "sha256-klrDSl9zL0jGM+Fc+fiCLbJ5Z7U2C9fTDn0+NmIH9VY=",
@@ -14,9 +14,11 @@
       "Blazored.LocalStorage.dll": "sha256-w2vMoqbIgF9UyzKqfDFXjqgg7IsGRHDvzb6DcyaPW6s=",
       "Microsoft.AspNetCore.Authorization.dll": "sha256-rxaMcq8hV3Ghq02xdjTphg+CcwUa93/pNhkQdRfzyP4=",
       "Microsoft.AspNetCore.Components.dll": "sha256-kW7qln6WGTpNE25zoDfBRy2OuCjZWR1Hstx7LCE48C8=",
+      "Microsoft.AspNetCore.Components.Authorization.dll": "sha256-Se1CRSwnBHgCoturPAXMFgWwtWcgwm+dBntorIwfN8Q=",
       "Microsoft.AspNetCore.Components.Forms.dll": "sha256-xw7tNvIBo4FWNJQJBMuk+8uZDuj3vDyphmczrOgyavo=",
       "Microsoft.AspNetCore.Components.Web.dll": "sha256-a+IJ8BvCdjB5hlGJeNqR+G95rAIWHMybF2EMBdm/vrI=",
       "Microsoft.AspNetCore.Components.WebAssembly.dll": "sha256-YBkayjUkGHqPFwRfHSnDaZ62t4oeESWcId4vO/nW7O4=",
+      "Microsoft.AspNetCore.Components.WebAssembly.Authentication.dll": "sha256-NFBuW4V+s03HSEGJq73pyAVUHvRYs2V876l/XxcBM9w=",
       "Microsoft.AspNetCore.Metadata.dll": "sha256-Hm7vxKjXU5L4mgBrz4rDl1zdhi9ME4On+74S2qk4IWg=",
       "Microsoft.Extensions.Configuration.dll": "sha256-c8yYhfrOBLEnOBglLTu9peXSbJDwFpuT4UQiXSv28Og=",
       "Microsoft.Extensions.Configuration.Abstractions.dll": "sha256-5Otet+KKVUjNkE/hqcNWmt75H1K2VNuKPFagpRd6Ces=",
@@ -202,14 +204,16 @@
       "mscorlib.dll": "sha256-s5oSn2ty4Q1q2t/0DWCHXo4ll77GsoYrYe5ExHyAg0o=",
       "netstandard.dll": "sha256-AH9oqzxpl6lGTr9vEnTGTk40WK7IpSuGlKS3dTEC67I=",
       "System.Private.CoreLib.dll": "sha256-ae6NSkrFVtQY8QH8C38+ZYQDBUinD+PjmAf/eE/eVMQ=",
-      "BethanysPieShopHRM.ComponentsLibrary.dll": "sha256-/bsEEp03IU2tHzdIFkDrAlpJRiD0aZYT1Xnm0qk3KXU=",
       "BethanysPieShopHRM.Shared.dll": "sha256-Jy1+FLVc7DREmkvp4nvZG5VKkLYdV3pFen9iBjIthgY=",
-      "BlazorBethanyPieShop.App.dll": "sha256-nLA5NjTzoyPysyVMJzuyWzUDqA2dHv76Vhqsf8qpsI4="
+      "BlazorBethanyPieShop.App.dll": "sha256-dsaiS2mgLRlfSlL+5H5jBRO91JCO0Od/I7ur0e7Nwik="
     },
     "pdb": {
-      "BethanysPieShopHRM.ComponentsLibrary.pdb": "sha256-T3/w4nBFuSDziN4qH+zbTtt1q1Z3ou/wqlhHpdSx6Ck=",
       "BethanysPieShopHRM.Shared.pdb": "sha256-CIFSwYdv+70JspwMqy1YtZ2YlydQrbkXpPcZqcnvPt4=",
-      "BlazorBethanyPieShop.App.pdb": "sha256-TxOXJitbMwUCQtfixb60/mPEEyfGu2d/5oyMCq2+bpw="
+      "BlazorBethanyPieShop.App.pdb": "sha256-qj4rJhvIwL5lH/GP4zJznN/xx+T4NiKMS2lVB6cChYM="
+    },
+    "lazyAssembly": {
+      "BethanysPieShopHRM.ComponentsLibrary.dll": "sha256-/bsEEp03IU2tHzdIFkDrAlpJRiD0aZYT1Xnm0qk3KXU=",
+      "BethanysPieShopHRM.ComponentsLibrary.pdb": "sha256-T3/w4nBFuSDziN4qH+zbTtt1q1Z3ou/wqlhHpdSx6Ck="
     },
     "runtimeAssets": {
       "dotnet.wasm": {
@@ -222,7 +226,9 @@
   "debugBuild": true,
   "debugLevel": 0,
   "linkerEnabled": false,
-  "config": [],
+  "config": [
+    "appsettings.json"
+  ],
   "icuDataMode": 0,
   "extensions": {
     "blazor": {}

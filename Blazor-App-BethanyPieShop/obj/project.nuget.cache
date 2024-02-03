@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "d8zJii2SGbRfoskLPS7oouFfGVI0joXs9Z1uOSXgUmhHnV2Uri4m3uBj57upvKgSOBh4Q2LmmtOOKnYzmPL10w==",
+  "dgSpecHash": "RWBSpZNHh1QMEFaCkeAqJMzuRuUREBzOWORCaElf3AWJ28IM74d2msTUvMdgKiyWhwCjm/JesoAUVJDG1e1i+Q==",
   "success": true,
   "projectFilePath": "C:\\Users\\kyler\\Desktop\\DOTNET-PRACTICE\\Blazor-App-BethanyPieShop\\Blazor-App-BethanyPieShop\\BlazorBethanyPieShop.App.csproj",
   "expectedPackageFiles": [
@@ -8,9 +8,11 @@
     "C:\\Users\\kyler\\.nuget\\packages\\microsoft.aspnetcore.authorization\\6.0.26\\microsoft.aspnetcore.authorization.6.0.26.nupkg.sha512",
     "C:\\Users\\kyler\\.nuget\\packages\\microsoft.aspnetcore.components\\6.0.26\\microsoft.aspnetcore.components.6.0.26.nupkg.sha512",
     "C:\\Users\\kyler\\.nuget\\packages\\microsoft.aspnetcore.components.analyzers\\6.0.26\\microsoft.aspnetcore.components.analyzers.6.0.26.nupkg.sha512",
+    "C:\\Users\\kyler\\.nuget\\packages\\microsoft.aspnetcore.components.authorization\\6.0.8\\microsoft.aspnetcore.components.authorization.6.0.8.nupkg.sha512",
     "C:\\Users\\kyler\\.nuget\\packages\\microsoft.aspnetcore.components.forms\\6.0.26\\microsoft.aspnetcore.components.forms.6.0.26.nupkg.sha512",
     "C:\\Users\\kyler\\.nuget\\packages\\microsoft.aspnetcore.components.web\\6.0.26\\microsoft.aspnetcore.components.web.6.0.26.nupkg.sha512",
     "C:\\Users\\kyler\\.nuget\\packages\\microsoft.aspnetcore.components.webassembly\\6.0.8\\microsoft.aspnetcore.components.webassembly.6.0.8.nupkg.sha512",
+    "C:\\Users\\kyler\\.nuget\\packages\\microsoft.aspnetcore.components.webassembly.authentication\\6.0.8\\microsoft.aspnetcore.components.webassembly.authentication.6.0.8.nupkg.sha512",
     "C:\\Users\\kyler\\.nuget\\packages\\microsoft.aspnetcore.components.webassembly.devserver\\6.0.8\\microsoft.aspnetcore.components.webassembly.devserver.6.0.8.nupkg.sha512",
     "C:\\Users\\kyler\\.nuget\\packages\\microsoft.aspnetcore.metadata\\6.0.26\\microsoft.aspnetcore.metadata.6.0.26.nupkg.sha512",
     "C:\\Users\\kyler\\.nuget\\packages\\microsoft.extensions.configuration\\6.0.0\\microsoft.extensions.configuration.6.0.0.nupkg.sha512",

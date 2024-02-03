@@ -844,3 +844,11 @@ C:\Users\kyler\Desktop\DOTNET-PRACTICE\Blazor-App-BethanyPieShop\Blazor-App-Beth
 C:\Users\kyler\Desktop\DOTNET-PRACTICE\Blazor-App-BethanyPieShop\Blazor-App-BethanyPieShop\obj\Debug\net6.0\compressed\4o1xovuex9.gz
 C:\Users\kyler\Desktop\DOTNET-PRACTICE\Blazor-App-BethanyPieShop\Blazor-App-BethanyPieShop\obj\Debug\net6.0\compressed\mmrdoaeu5u.gz
 C:\Users\kyler\Desktop\DOTNET-PRACTICE\Blazor-App-BethanyPieShop\Blazor-App-BethanyPieShop\obj\Debug\net6.0\compressed\nrtssydg0u.gz
+C:\Users\kyler\Desktop\DOTNET-PRACTICE\Blazor-App-BethanyPieShop\Blazor-App-BethanyPieShop\bin\Debug\net6.0\wwwroot\_framework\Microsoft.AspNetCore.Components.Authorization.dll
+C:\Users\kyler\Desktop\DOTNET-PRACTICE\Blazor-App-BethanyPieShop\Blazor-App-BethanyPieShop\bin\Debug\net6.0\wwwroot\_framework\Microsoft.AspNetCore.Components.WebAssembly.Authentication.dll
+C:\Users\kyler\Desktop\DOTNET-PRACTICE\Blazor-App-BethanyPieShop\Blazor-App-BethanyPieShop\bin\Debug\net6.0\wwwroot\_framework\Microsoft.AspNetCore.Components.WebAssembly.Authentication.dll.gz
+C:\Users\kyler\Desktop\DOTNET-PRACTICE\Blazor-App-BethanyPieShop\Blazor-App-BethanyPieShop\bin\Debug\net6.0\wwwroot\_framework\Microsoft.AspNetCore.Components.Authorization.dll.gz
+C:\Users\kyler\Desktop\DOTNET-PRACTICE\Blazor-App-BethanyPieShop\Blazor-App-BethanyPieShop\bin\Debug\net6.0\Microsoft.AspNetCore.Components.Authorization.dll
+C:\Users\kyler\Desktop\DOTNET-PRACTICE\Blazor-App-BethanyPieShop\Blazor-App-BethanyPieShop\bin\Debug\net6.0\Microsoft.AspNetCore.Components.WebAssembly.Authentication.dll
+C:\Users\kyler\Desktop\DOTNET-PRACTICE\Blazor-App-BethanyPieShop\Blazor-App-BethanyPieShop\obj\Debug\net6.0\compressed\6jdlzjmurh.gz
+C:\Users\kyler\Desktop\DOTNET-PRACTICE\Blazor-App-BethanyPieShop\Blazor-App-BethanyPieShop\obj\Debug\net6.0\compressed\3y61v9yynt.gz
