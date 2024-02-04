@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("BethanysPieShopHRM.ComponentsLibrary")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0305b5d670b7027e68c15a920c017b8c23db8fa9")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+dd79359d7b073571e6163eb7d0a52e17af089389")]
 [assembly: System.Reflection.AssemblyProductAttribute("BethanysPieShopHRM.ComponentsLibrary")]
 [assembly: System.Reflection.AssemblyTitleAttribute("BethanysPieShopHRM.ComponentsLibrary")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

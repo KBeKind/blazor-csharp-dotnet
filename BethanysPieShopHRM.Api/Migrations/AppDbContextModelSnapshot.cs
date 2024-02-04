@@ -3,8 +3,8 @@ using System;
 using BethanysPieShopHRM.Api.Models;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Infrastructure;
+using Microsoft.EntityFrameworkCore.Metadata;
 using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
-using Npgsql.EntityFrameworkCore.PostgreSQL.Metadata;
 
 #nullable disable
 
@@ -17,22 +17,22 @@ namespace BethanysPieShopHRM.Api.Migrations
         {
 #pragma warning disable 612, 618
             modelBuilder
-                .HasAnnotation("ProductVersion", "6.0.12")
-                .HasAnnotation("Relational:MaxIdentifierLength", 63);
+                .HasAnnotation("ProductVersion", "6.0.7")
+                .HasAnnotation("Relational:MaxIdentifierLength", 128);
 
-            NpgsqlModelBuilderExtensions.UseIdentityByDefaultColumns(modelBuilder);
+            SqlServerModelBuilderExtensions.UseIdentityColumns(modelBuilder, 1L, 1);
 
-            modelBuilder.Entity("BethanysPieShopHRM.Shared.Domain.Country", b =>
+            modelBuilder.Entity("BethanysPieShopHRM.Shared.Country", b =>
                 {
                     b.Property<int>("CountryId")
                         .ValueGeneratedOnAdd()
-                        .HasColumnType("integer");
+                        .HasColumnType("int");
 
-                    NpgsqlPropertyBuilderExtensions.UseIdentityByDefaultColumn(b.Property<int>("CountryId"));
+                    SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("CountryId"), 1L, 1);
 
                     b.Property<string>("Name")
                         .IsRequired()
-                        .HasColumnType("text");
+                        .HasColumnType("nvarchar(max)");
 
                     b.HasKey("CountryId");
 
@@ -86,68 +86,80 @@ namespace BethanysPieShopHRM.Api.Migrations
                         });
                 });
 
-            modelBuilder.Entity("BethanysPieShopHRM.Shared.Domain.Employee", b =>
+            modelBuilder.Entity("BethanysPieShopHRM.Shared.Employee", b =>
                 {
                     b.Property<int>("EmployeeId")
                         .ValueGeneratedOnAdd()
-                        .HasColumnType("integer");
+                        .HasColumnType("int");
 
-                    NpgsqlPropertyBuilderExtensions.UseIdentityByDefaultColumn(b.Property<int>("EmployeeId"));
+                    SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("EmployeeId"), 1L, 1);
+
+                    b.Property<DateTime>("BirthDate")
+                        .HasColumnType("datetime2");
 
                     b.Property<string>("City")
                         .IsRequired()
-                        .HasColumnType("text");
+                        .HasColumnType("nvarchar(max)");
 
                     b.Property<string>("Comment")
-                        .HasColumnType("text");
+                        .HasMaxLength(1000)
+                        .HasColumnType("nvarchar(1000)");
 
                     b.Property<int>("CountryId")
-                        .HasColumnType("integer");
+                        .HasColumnType("int");
 
                     b.Property<string>("Email")
                         .IsRequired()
-                        .HasColumnType("text");
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<DateTime?>("ExitDate")
+                        .HasColumnType("datetime2");
 
                     b.Property<string>("FirstName")
                         .IsRequired()
-                        .HasColumnType("text");
+                        .HasMaxLength(50)
+                        .HasColumnType("nvarchar(50)");
 
                     b.Property<int>("Gender")
-                        .HasColumnType("integer");
+                        .HasColumnType("int");
 
                     b.Property<string>("ImageName")
-                        .HasColumnType("text");
+                        .HasColumnType("nvarchar(max)");
 
                     b.Property<int>("JobCategoryId")
-                        .HasColumnType("integer");
+                        .HasColumnType("int");
+
+                    b.Property<DateTime?>("JoinedDate")
+                        .HasColumnType("datetime2");
 
                     b.Property<string>("LastName")
                         .IsRequired()
-                        .HasColumnType("text");
+                        .HasMaxLength(50)
+                        .HasColumnType("nvarchar(50)");
 
                     b.Property<double?>("Latitude")
-                        .HasColumnType("double precision");
+                        .HasColumnType("float");
 
                     b.Property<double?>("Longitude")
-                        .HasColumnType("double precision");
+                        .HasColumnType("float");
 
                     b.Property<int>("MaritalStatus")
-                        .HasColumnType("integer");
+                        .HasColumnType("int");
 
                     b.Property<string>("PhoneNumber")
                         .IsRequired()
-                        .HasColumnType("text");
+                        .HasColumnType("nvarchar(max)");
 
                     b.Property<bool>("Smoker")
-                        .HasColumnType("boolean");
+                        .HasColumnType("bit");
 
                     b.Property<string>("Street")
                         .IsRequired()
-                        .HasColumnType("text");
+                        .HasColumnType("nvarchar(max)");
 
                     b.Property<string>("Zip")
                         .IsRequired()
-                        .HasColumnType("text");
+                        .HasColumnType("nvarchar(max)");
 
                     b.HasKey("EmployeeId");
 
@@ -161,6 +173,7 @@ namespace BethanysPieShopHRM.Api.Migrations
                         new
                         {
                             EmployeeId = 1,
+                            BirthDate = new DateTime(1979, 1, 16, 0, 0, 0, 0, DateTimeKind.Unspecified),
                             City = "Brussels",
                             Comment = "Lorem Ipsum",
                             CountryId = 1,
@@ -168,6 +181,7 @@ namespace BethanysPieShopHRM.Api.Migrations
                             FirstName = "Bethany",
                             Gender = 1,
                             JobCategoryId = 1,
+                            JoinedDate = new DateTime(2015, 3, 1, 0, 0, 0, 0, DateTimeKind.Unspecified),
                             LastName = "Smith",
                             Latitude = 50.850299999999997,
                             Longitude = 4.3517000000000001,
@@ -179,17 +193,17 @@ namespace BethanysPieShopHRM.Api.Migrations
                         });
                 });
 
-            modelBuilder.Entity("BethanysPieShopHRM.Shared.Domain.JobCategory", b =>
+            modelBuilder.Entity("BethanysPieShopHRM.Shared.JobCategory", b =>
                 {
                     b.Property<int>("JobCategoryId")
                         .ValueGeneratedOnAdd()
-                        .HasColumnType("integer");
+                        .HasColumnType("int");
 
-                    NpgsqlPropertyBuilderExtensions.UseIdentityByDefaultColumn(b.Property<int>("JobCategoryId"));
+                    SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("JobCategoryId"), 1L, 1);
 
                     b.Property<string>("JobCategoryName")
                         .IsRequired()
-                        .HasColumnType("text");
+                        .HasColumnType("nvarchar(max)");
 
                     b.HasKey("JobCategoryId");
 
@@ -243,15 +257,15 @@ namespace BethanysPieShopHRM.Api.Migrations
                         });
                 });
 
-            modelBuilder.Entity("BethanysPieShopHRM.Shared.Domain.Employee", b =>
+            modelBuilder.Entity("BethanysPieShopHRM.Shared.Employee", b =>
                 {
-                    b.HasOne("BethanysPieShopHRM.Shared.Domain.Country", "Country")
+                    b.HasOne("BethanysPieShopHRM.Shared.Country", "Country")
                         .WithMany()
                         .HasForeignKey("CountryId")
                         .OnDelete(DeleteBehavior.Cascade)
                         .IsRequired();
 
-                    b.HasOne("BethanysPieShopHRM.Shared.Domain.JobCategory", "JobCategory")
+                    b.HasOne("BethanysPieShopHRM.Shared.JobCategory", "JobCategory")
                         .WithMany()
                         .HasForeignKey("JobCategoryId")
                         .OnDelete(DeleteBehavior.Cascade)

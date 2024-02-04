@@ -1,4 +1,7 @@
-﻿using BethanysPieShopHRM.Shared.Domain;
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using BethanysPieShopHRM.Shared.Domain;
 
 namespace BethanysPieShopHRM.Api.Models
 {
@@ -37,6 +40,7 @@ namespace BethanysPieShopHRM.Api.Models
             {
                 foundEmployee.CountryId = employee.CountryId;
                 foundEmployee.MaritalStatus = employee.MaritalStatus;
+                foundEmployee.BirthDate = employee.BirthDate;
                 foundEmployee.City = employee.City;
                 foundEmployee.Email = employee.Email;
                 foundEmployee.FirstName = employee.FirstName;
@@ -48,6 +52,8 @@ namespace BethanysPieShopHRM.Api.Models
                 foundEmployee.Zip = employee.Zip;
                 foundEmployee.JobCategoryId = employee.JobCategoryId;
                 foundEmployee.Comment = employee.Comment;
+                foundEmployee.ExitDate = employee.ExitDate;
+                foundEmployee.JoinedDate = employee.JoinedDate;
                 //foundEmployee.ImageContent = employee.ImageContent;
                 //foundEmployee.ImageName = employee.ImageName;
 
