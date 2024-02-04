@@ -31,8 +31,8 @@
               "C:\\Users\\kyler\\Desktop\\DOTNET-PRACTICE\\Blazor-App-BethanyPieShop\\BethanysPieShopHRM.Shared\\BethanysPieShopHRM.Shared.csproj": {
                 "projectPath": "C:\\Users\\kyler\\Desktop\\DOTNET-PRACTICE\\Blazor-App-BethanyPieShop\\BethanysPieShopHRM.Shared\\BethanysPieShopHRM.Shared.csproj"
               },
-              "C:\\Users\\kyler\\Desktop\\DOTNET-PRACTICE\\Blazor-App-BethanyPieShop\\Blazor-App-BethanyPieShop\\BlazorBethanyPieShop.App.csproj": {
-                "projectPath": "C:\\Users\\kyler\\Desktop\\DOTNET-PRACTICE\\Blazor-App-BethanyPieShop\\Blazor-App-BethanyPieShop\\BlazorBethanyPieShop.App.csproj"
+              "C:\\Users\\kyler\\Desktop\\DOTNET-PRACTICE\\Blazor-App-BethanyPieShop\\BethanysPieShopHRM.WebAssembly\\BethanysPieShopHRM.WebAssembly.csproj": {
+                "projectPath": "C:\\Users\\kyler\\Desktop\\DOTNET-PRACTICE\\Blazor-App-BethanyPieShop\\BethanysPieShopHRM.WebAssembly\\BethanysPieShopHRM.WebAssembly.csproj"
               }
             }
           }
@@ -49,15 +49,11 @@
           "dependencies": {
             "Microsoft.AspNetCore.Authentication.JwtBearer": {
               "target": "Package",
-              "version": "[6.0.8, )"
-            },
-            "Microsoft.AspNetCore.Components.WebAssembly": {
-              "target": "Package",
-              "version": "[6.0.8, )"
+              "version": "[6.0.2, )"
             },
             "Microsoft.AspNetCore.Components.WebAssembly.Server": {
               "target": "Package",
-              "version": "[6.0.8, )"
+              "version": "[6.0.6, )"
             },
             "Microsoft.EntityFrameworkCore.SqlServer": {
               "target": "Package",
@@ -68,10 +64,6 @@
               "suppressParent": "All",
               "target": "Package",
               "version": "[6.0.7, )"
-            },
-            "Npgsql.EntityFrameworkCore.PostgreSQL": {
-              "target": "Package",
-              "version": "[6.0.8, )"
             },
             "Swashbuckle.AspNetCore": {
               "target": "Package",
@@ -93,6 +85,87 @@
             "Microsoft.AspNetCore.App": {
               "privateAssets": "none"
             },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\kyler\\Desktop\\DOTNET-PRACTICE\\Blazor-App-BethanyPieShop\\BethanysPieShopHRM.App\\BethanysPieShopHRM.App.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\kyler\\Desktop\\DOTNET-PRACTICE\\Blazor-App-BethanyPieShop\\BethanysPieShopHRM.App\\BethanysPieShopHRM.App.csproj",
+        "projectName": "BethanysPieShopHRM.App",
+        "projectPath": "C:\\Users\\kyler\\Desktop\\DOTNET-PRACTICE\\Blazor-App-BethanyPieShop\\BethanysPieShopHRM.App\\BethanysPieShopHRM.App.csproj",
+        "packagesPath": "C:\\Users\\kyler\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\kyler\\Desktop\\DOTNET-PRACTICE\\Blazor-App-BethanyPieShop\\BethanysPieShopHRM.App\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\kyler\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\kyler\\Desktop\\DOTNET-PRACTICE\\Blazor-App-BethanyPieShop\\BethanysPieShopHRM.ComponentsLibrary\\BethanysPieShopHRM.ComponentsLibrary.csproj": {
+                "projectPath": "C:\\Users\\kyler\\Desktop\\DOTNET-PRACTICE\\Blazor-App-BethanyPieShop\\BethanysPieShopHRM.ComponentsLibrary\\BethanysPieShopHRM.ComponentsLibrary.csproj"
+              },
+              "C:\\Users\\kyler\\Desktop\\DOTNET-PRACTICE\\Blazor-App-BethanyPieShop\\BethanysPieShopHRM.Shared\\BethanysPieShopHRM.Shared.csproj": {
+                "projectPath": "C:\\Users\\kyler\\Desktop\\DOTNET-PRACTICE\\Blazor-App-BethanyPieShop\\BethanysPieShopHRM.Shared\\BethanysPieShopHRM.Shared.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Blazored.LocalStorage": {
+              "target": "Package",
+              "version": "[4.2.0, )"
+            },
+            "Microsoft.AspNetCore.Components.WebAssembly": {
+              "target": "Package",
+              "version": "[6.0.6, )"
+            },
+            "Microsoft.AspNetCore.Components.WebAssembly.DevServer": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[6.0.6, )"
+            },
+            "Microsoft.Extensions.Http": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
@@ -143,7 +216,7 @@
           "dependencies": {
             "Microsoft.AspNetCore.Components.Web": {
               "target": "Package",
-              "version": "[6.0.26, )"
+              "version": "[6.0.6, )"
             }
           },
           "imports": [
@@ -221,14 +294,14 @@
         }
       }
     },
-    "C:\\Users\\kyler\\Desktop\\DOTNET-PRACTICE\\Blazor-App-BethanyPieShop\\Blazor-App-BethanyPieShop\\BlazorBethanyPieShop.App.csproj": {
+    "C:\\Users\\kyler\\Desktop\\DOTNET-PRACTICE\\Blazor-App-BethanyPieShop\\BethanysPieShopHRM.WebAssembly\\BethanysPieShopHRM.WebAssembly.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\kyler\\Desktop\\DOTNET-PRACTICE\\Blazor-App-BethanyPieShop\\Blazor-App-BethanyPieShop\\BlazorBethanyPieShop.App.csproj",
-        "projectName": "BlazorBethanyPieShop.App",
-        "projectPath": "C:\\Users\\kyler\\Desktop\\DOTNET-PRACTICE\\Blazor-App-BethanyPieShop\\Blazor-App-BethanyPieShop\\BlazorBethanyPieShop.App.csproj",
+        "projectUniqueName": "C:\\Users\\kyler\\Desktop\\DOTNET-PRACTICE\\Blazor-App-BethanyPieShop\\BethanysPieShopHRM.WebAssembly\\BethanysPieShopHRM.WebAssembly.csproj",
+        "projectName": "BethanysPieShopHRM.WebAssembly",
+        "projectPath": "C:\\Users\\kyler\\Desktop\\DOTNET-PRACTICE\\Blazor-App-BethanyPieShop\\BethanysPieShopHRM.WebAssembly\\BethanysPieShopHRM.WebAssembly.csproj",
         "packagesPath": "C:\\Users\\kyler\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\kyler\\Desktop\\DOTNET-PRACTICE\\Blazor-App-BethanyPieShop\\Blazor-App-BethanyPieShop\\obj\\",
+        "outputPath": "C:\\Users\\kyler\\Desktop\\DOTNET-PRACTICE\\Blazor-App-BethanyPieShop\\BethanysPieShopHRM.WebAssembly\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\kyler\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -245,11 +318,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\kyler\\Desktop\\DOTNET-PRACTICE\\Blazor-App-BethanyPieShop\\BethanysPieShopHRM.ComponentsLibrary\\BethanysPieShopHRM.ComponentsLibrary.csproj": {
-                "projectPath": "C:\\Users\\kyler\\Desktop\\DOTNET-PRACTICE\\Blazor-App-BethanyPieShop\\BethanysPieShopHRM.ComponentsLibrary\\BethanysPieShopHRM.ComponentsLibrary.csproj"
-              },
-              "C:\\Users\\kyler\\Desktop\\DOTNET-PRACTICE\\Blazor-App-BethanyPieShop\\BethanysPieShopHRM.Shared\\BethanysPieShopHRM.Shared.csproj": {
-                "projectPath": "C:\\Users\\kyler\\Desktop\\DOTNET-PRACTICE\\Blazor-App-BethanyPieShop\\BethanysPieShopHRM.Shared\\BethanysPieShopHRM.Shared.csproj"
+              "C:\\Users\\kyler\\Desktop\\DOTNET-PRACTICE\\Blazor-App-BethanyPieShop\\BethanysPieShopHRM.App\\BethanysPieShopHRM.App.csproj": {
+                "projectPath": "C:\\Users\\kyler\\Desktop\\DOTNET-PRACTICE\\Blazor-App-BethanyPieShop\\BethanysPieShopHRM.App\\BethanysPieShopHRM.App.csproj"
               }
             }
           }
@@ -264,26 +334,14 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "dependencies": {
-            "Blazored.LocalStorage": {
-              "target": "Package",
-              "version": "[4.4.0, )"
-            },
             "Microsoft.AspNetCore.Components.WebAssembly": {
               "target": "Package",
-              "version": "[6.0.8, )"
-            },
-            "Microsoft.AspNetCore.Components.WebAssembly.Authentication": {
-              "target": "Package",
-              "version": "[6.0.8, )"
+              "version": "[6.0.6, )"
             },
             "Microsoft.AspNetCore.Components.WebAssembly.DevServer": {
               "suppressParent": "All",
               "target": "Package",
-              "version": "[6.0.8, )"
-            },
-            "Microsoft.Extensions.Http": {
-              "target": "Package",
-              "version": "[6.0.0, )"
+              "version": "[6.0.6, )"
             },
             "Microsoft.NET.ILLink.Analyzers": {
               "suppressParent": "All",

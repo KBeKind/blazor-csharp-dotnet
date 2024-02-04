@@ -1,6 +1,6 @@
 ﻿using System;
-using Microsoft.EntityFrameworkCore;
 using BethanysPieShopHRM.Shared.Domain;
+using Microsoft.EntityFrameworkCore;
 
 namespace BethanysPieShopHRM.Api.Models
 {
@@ -45,6 +45,7 @@ namespace BethanysPieShopHRM.Api.Models
                 EmployeeId = 1,
                 CountryId = 1,
                 MaritalStatus = MaritalStatus.Single,
+                BirthDate = new DateTime(1979, 1, 16),
                 City = "Brussels",
                 Email = "bethany@bethanyspieshop.com",
                 FirstName = "Bethany",
@@ -56,6 +57,8 @@ namespace BethanysPieShopHRM.Api.Models
                 Zip = "1000",
                 JobCategoryId = 1,
                 Comment = "Lorem Ipsum",
+                ExitDate = null,
+                JoinedDate = new DateTime(2015, 3, 1),
                 Latitude = 50.8503, 
                 Longitude = 4.3517
             });

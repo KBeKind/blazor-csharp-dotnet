@@ -7,12 +7,12 @@ namespace BethanysPieShopHRM.Api.Controllers
 {
     [Route("api/[controller]")]
     [ApiController]
-    [Authorize]
     public class EmployeeController : Controller
     {
         private readonly IEmployeeRepository _employeeRepository;
         private readonly IWebHostEnvironment _webHostEnvironment;
         private readonly IHttpContextAccessor _httpContextAccessor;
+        
         public EmployeeController(IEmployeeRepository employeeRepository, IWebHostEnvironment webHostEnvironment, IHttpContextAccessor httpContextAccessor)
         {
             _employeeRepository = employeeRepository;
@@ -46,7 +46,7 @@ namespace BethanysPieShopHRM.Api.Controllers
             if (!ModelState.IsValid)
                 return BadRequest(ModelState);
 
-            //HANDLE IMAGE UPLOAD
+            //handle image upload
             string currentUrl = _httpContextAccessor.HttpContext.Request.Host.Value;
             var path = $"{_webHostEnvironment.WebRootPath}\\uploads\\{employee.ImageName}";
             var fileStream = System.IO.File.Create(path);
